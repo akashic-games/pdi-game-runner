@@ -1,0 +1,3919 @@
+├─ JSONStream@1.3.5
+│  ├─ licenses: (MIT OR Apache-2.0)
+│  ├─ repository: https://github.com/dominictarr/JSONStream
+│  ├─ publisher: Dominic Tarr
+│  ├─ copyright: Copyright (c) 2011 Dominic Tarr
+│  ├─ name: JSONStream
+│  ├─ version: 1.3.5
+│  └─ description: rawStream.pipe(JSONStream.parse()).pipe(streamOfObjects)
+├─ acorn-node@1.8.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/browserify/acorn-node
+│  ├─ publisher: Renée Kooi
+│  ├─ copyright: Copyright 2018 Renée Kooi <renee@kooi.me>
+│  ├─ name: acorn-node
+│  ├─ version: 1.8.2
+│  └─ description: the acorn javascript parser, preloaded with plugins for syntax parity with recent node versions
+├─ acorn-walk@7.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/acornjs/acorn
+│  ├─ copyright: Copyright (C) 2012-2018 by various contributors (see AUTHORS)
+│  ├─ name: acorn-walk
+│  ├─ version: 7.2.0
+│  ├─ description: ECMAScript (ESTree) AST walker
+│  └─ publisher: 
+├─ acorn@5.7.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/acornjs/acorn
+│  ├─ copyright: Copyright (C) 2012-2018 by various contributors (see AUTHORS)
+│  ├─ name: acorn
+│  ├─ version: 5.7.4
+│  ├─ description: ECMAScript parser
+│  └─ publisher: 
+├─ acorn@7.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/acornjs/acorn
+│  ├─ copyright: Copyright (C) 2012-2018 by various contributors (see AUTHORS)
+│  ├─ name: acorn
+│  ├─ version: 7.4.1
+│  ├─ description: ECMAScript parser
+│  └─ publisher: 
+├─ ansi-colors@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/doowb/ansi-colors
+│  ├─ publisher: Brian Woodward
+│  ├─ copyright: Copyright (c) 2015-2017, Brian Woodward.
+│  ├─ name: ansi-colors
+│  ├─ version: 1.1.0
+│  └─ description: Collection of ansi colors and styles.
+├─ ansi-gray@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/ansi-gray
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) <%= year() %>, Jon Schlinkert.
+│  ├─ name: ansi-gray
+│  ├─ version: 0.1.1
+│  └─ description: The color gray, in ansi.
+├─ ansi-regex@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-regex
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: ansi-regex
+│  ├─ version: 2.1.1
+│  └─ description: Regular expression for matching ANSI escape codes
+├─ ansi-styles@2.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: ansi-styles
+│  ├─ version: 2.2.1
+│  └─ description: ANSI escape codes for styling strings in the terminal
+├─ ansi-wrap@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/ansi-wrap
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, Jon Schlinkert.
+│  ├─ name: ansi-wrap
+│  ├─ version: 0.1.0
+│  └─ description: Create ansi colors by passing the open and close codes.
+├─ anymatch@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/micromatch/anymatch
+│  ├─ publisher: Elan Shanker
+│  ├─ copyright: Copyright (c) 2014 Elan Shanker
+│  ├─ name: anymatch
+│  ├─ version: 2.0.0
+│  └─ description: Matches strings against configurable strings, globs, regular expressions, and/or functions
+├─ append-buffer@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/doowb/append-buffer
+│  ├─ publisher: Brian Woodward
+│  ├─ copyright: Copyright (c) 2017, Brian Woodward.
+│  ├─ name: append-buffer
+│  ├─ version: 1.0.2
+│  └─ description: Append a buffer to another buffer ensuring to preserve line ending characters.
+├─ archy@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-archy
+│  ├─ publisher: James Halliday
+│  ├─ name: archy
+│  ├─ version: 1.0.0
+│  └─ description: render nested hierarchies `npm ls` style with unicode pipes
+├─ arr-diff@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/arr-diff
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert
+│  ├─ name: arr-diff
+│  ├─ version: 4.0.0
+│  └─ description: Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
+├─ arr-filter@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/arr-filter
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2015, 2017, Jon Schlinkert
+│  ├─ name: arr-filter
+│  ├─ version: 1.1.2
+│  └─ description: Faster alternative to javascript's native filter method.
+├─ arr-flatten@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/arr-flatten
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: arr-flatten
+│  ├─ version: 1.1.0
+│  └─ description: Recursively flatten an array or arrays.
+├─ arr-map@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/arr-map
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, 2017, Jon Schlinkert
+│  ├─ name: arr-map
+│  ├─ version: 2.0.2
+│  └─ description: Faster, node.js focused alternative to JavaScript's native array map.
+├─ arr-union@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/arr-union
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert.
+│  ├─ name: arr-union
+│  ├─ version: 3.1.0
+│  └─ description: Combines a list of arrays, returning a single array with unique values, using strict equality for comparisons.
+├─ array-differ@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/array-differ
+│  ├─ publisher: Sindre Sorhus
+│  ├─ name: array-differ
+│  ├─ version: 1.0.0
+│  └─ description: Create an array with values that are present in the first input array but not additional ones
+├─ array-each@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/array-each
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, 2017, Jon Schlinkert
+│  ├─ name: array-each
+│  ├─ version: 1.0.1
+│  └─ description: Loop over each item in an array and call the given function on every element.
+├─ array-initial@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/array-initial
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014 Jon Schlinkert, contributors.
+│  ├─ name: array-initial
+│  ├─ version: 1.1.0
+│  └─ description: Get all but the last element or last n elements of an array.
+├─ array-last@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/array-last
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: array-last
+│  ├─ version: 1.3.0
+│  └─ description: Get the last or last n elements in an array.
+├─ array-slice@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/array-slice
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: array-slice
+│  ├─ version: 1.1.0
+│  └─ description: Array-slice method. Slices `array` from the `start` index up to, but not including, the `end` index.
+├─ array-sort@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/array-sort
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: array-sort
+│  ├─ version: 1.0.0
+│  └─ description: Fast and powerful array sorting. Sort an array of objects by one or more properties. Any number of nested properties or custom comparison functions may be used.
+├─ array-union@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/array-union
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: array-union
+│  ├─ version: 1.0.2
+│  └─ description: Create an array of unique values, in order, from the input arrays
+├─ array-uniq@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/array-uniq
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: array-uniq
+│  ├─ version: 1.0.3
+│  └─ description: Create an array without duplicates
+├─ array-unique@0.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/array-unique
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert
+│  ├─ name: array-unique
+│  ├─ version: 0.3.2
+│  └─ description: Remove duplicate values from an array. Fastest ES5 implementation.
+├─ arrify@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/arrify
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: arrify
+│  ├─ version: 1.0.1
+│  └─ description: Convert a value to an array
+├─ asn1.js@5.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/asn1.js
+│  ├─ publisher: Fedor Indutny
+│  ├─ copyright: Copyright (c) 2017 Fedor Indutny
+│  ├─ name: asn1.js
+│  ├─ version: 5.4.1
+│  └─ description: ASN.1 encoder and decoder
+├─ assert@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/defunctzombie/commonjs-assert
+│  ├─ copyright: Copyright Joyent, Inc. and other Node contributors. All rights reserved.. Permission is hereby granted, free of charge, to any person obtaining a copy. of this software and associated documentation files (the "Software"), to. deal in the Software without restriction, including without limitation the. rights to use, copy, modify, merge, publish, distribute, sublicense, and/or. sell copies of the Software, and to permit persons to whom the Software is. furnished to do so, subject to the following conditions:
+│  ├─ name: assert
+│  ├─ version: 1.3.0
+│  ├─ description: commonjs assert - node.js api compatible
+│  └─ publisher: 
+├─ assign-symbols@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/assign-symbols
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, Jon Schlinkert.
+│  ├─ name: assign-symbols
+│  ├─ version: 1.0.0
+│  └─ description: Assign the enumerable es6 Symbol properties from an object (or objects) to the first object passed on the arguments. Can be used as a supplement to other extend, assign or merge methods as a polyfill for the Symbols part of the es6 Object.assign method.
+├─ async-done@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/async-done
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2015 Blaine Bublitz, Eric Schoffstall and other contributors
+│  ├─ name: async-done
+│  ├─ version: 1.3.2
+│  └─ description: Allows libraries to handle various caller provided asynchronous functions uniformly. Maps promises, observables, child processes and streams, and callbacks to callback style.
+├─ async-each@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/async-each
+│  ├─ publisher: Paul Miller
+│  ├─ copyright: Copyright (c) 2016 Paul Miller [(paulmillr.com)](http://paulmillr.com)
+│  ├─ name: async-each
+│  ├─ version: 1.0.3
+│  └─ description: No-bullshit, ultra-simple, 35-lines-of-code async parallel forEach / map function for JavaScript.
+├─ async-settle@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/async-settle
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014 Blaine Bublitz, Eric Schoffstall and other contributors
+│  ├─ name: async-settle
+│  ├─ version: 1.0.0
+│  └─ description: Settle an async function.
+├─ atob@2.1.2
+│  ├─ licenses: (MIT OR Apache-2.0)
+│  ├─ repository: git://git.coolaj86.com/coolaj86/atob.js
+│  ├─ publisher: AJ ONeal
+│  ├─ copyright: Copyright (c) 2015 AJ ONeal
+│  ├─ name: atob
+│  ├─ version: 2.1.2
+│  └─ description: atob for Node.JS and Linux / Mac / Windows CLI (it's a one-liner)
+├─ bach@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/bach
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014 Blaine Bublitz, Eric Schoffstall and other contributors
+│  ├─ name: bach
+│  ├─ version: 1.2.0
+│  └─ description: Compose your async functions with elegance.
+├─ balanced-match@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  ├─ publisher: Julian Gruber
+│  ├─ copyright: Copyright (c) 2013 Julian Gruber &lt;julian@juliangruber.com&gt;
+│  ├─ name: balanced-match
+│  ├─ version: 1.0.0
+│  └─ description: Match balanced character pairs, like "{" and "}"
+├─ base64-js@1.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/beatgammit/base64-js
+│  ├─ publisher: T. Jameson Little
+│  ├─ copyright: Copyright (c) 2014 Jameson Little
+│  ├─ name: base64-js
+│  ├─ version: 1.5.1
+│  └─ description: Base64 encoding/decoding in pure JS
+├─ base@0.11.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/node-base/base
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: base
+│  ├─ version: 0.11.2
+│  └─ description: base is the foundation for creating modular, unit testable and highly pluggable node.js applications, starting with a handful of common methods, like `set`, `get`, `del` and `use`.
+├─ beeper@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/beeper
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: beeper
+│  ├─ version: 1.1.1
+│  └─ description: Make your terminal beep
+├─ binary-extensions@1.13.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/binary-extensions
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: binary-extensions
+│  ├─ version: 1.13.1
+│  └─ description: List of binary file extensions
+├─ bindings@1.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-bindings
+│  ├─ publisher: Nathan Rajlich
+│  ├─ copyright: Copyright (c) 2012 Nathan Rajlich &lt;nathan@tootallnate.net&gt;
+│  ├─ name: bindings
+│  ├─ version: 1.5.0
+│  └─ description: Helper module for loading your native module's .node file
+├─ bn.js@4.11.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/bn.js
+│  ├─ publisher: Fedor Indutny
+│  ├─ copyright: Copyright Fedor Indutny, 2015.
+│  ├─ name: bn.js
+│  ├─ version: 4.11.9
+│  └─ description: Big number implementation in pure javascript
+├─ bn.js@5.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/bn.js
+│  ├─ publisher: Fedor Indutny
+│  ├─ copyright: Copyright Fedor Indutny, 2015.
+│  ├─ name: bn.js
+│  ├─ version: 5.1.3
+│  └─ description: Big number implementation in pure javascript
+├─ brace-expansion@1.1.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/brace-expansion
+│  ├─ publisher: Julian Gruber
+│  ├─ copyright: Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
+│  ├─ name: brace-expansion
+│  ├─ version: 1.1.11
+│  └─ description: Brace expansion as known from sh/bash
+├─ braces@2.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/braces
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2018, Jon Schlinkert.
+│  ├─ name: braces
+│  ├─ version: 2.3.2
+│  └─ description: Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed.
+├─ brorand@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/brorand
+│  ├─ publisher: Fedor Indutny
+│  ├─ copyright: Copyright Fedor Indutny, 2014.
+│  ├─ name: brorand
+│  ├─ version: 1.1.0
+│  └─ description: Random number generator for browsers and node.js
+├─ browser-pack@6.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/browser-pack
+│  ├─ publisher: James Halliday
+│  ├─ name: browser-pack
+│  ├─ version: 6.1.0
+│  └─ description: pack node-style source files from a json stream into a browser bundle
+├─ browser-resolve@1.11.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shtylman/node-browser-resolve
+│  ├─ publisher: Roman Shtylman
+│  ├─ copyright: Copyright (c) 2013-2015 Roman Shtylman <shtylman@gmail.com>
+│  ├─ name: browser-resolve
+│  ├─ version: 1.11.3
+│  └─ description: resolve which handles browser field support in package.json
+├─ browserify-aes@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/browserify-aes
+│  ├─ copyright: Copyright (c) 2014-2017 browserify-aes contributors
+│  ├─ name: browserify-aes
+│  ├─ version: 1.2.0
+│  ├─ description: aes, for browserify
+│  └─ publisher: 
+├─ browserify-cipher@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/browserify-cipher
+│  ├─ publisher: Calvin Metcalf
+│  ├─ copyright: Copyright (c) 2014-2017 Calvin Metcalf & contributors
+│  ├─ name: browserify-cipher
+│  ├─ version: 1.0.1
+│  └─ description: ciphers for the browser
+├─ browserify-des@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/browserify-des
+│  ├─ publisher: Calvin Metcalf
+│  ├─ copyright: Copyright (c) 2014-2017 Calvin Metcalf, Fedor Indutny & contributors
+│  ├─ name: browserify-des
+│  ├─ version: 1.0.2
+│  └─ description: browserify-des ===
+├─ browserify-rsa@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/browserify-rsa
+│  ├─ copyright: Copyright (c) 2014-2016 Calvin Metcalf & contributors
+│  ├─ name: browserify-rsa
+│  ├─ version: 4.1.0
+│  ├─ description: RSA for browserify
+│  └─ publisher: 
+├─ browserify-sign@4.2.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/crypto-browserify/browserify-sign
+│  ├─ copyright: Copyright (c) 2014-2015 Calvin Metcalf and browserify-sign contributors
+│  ├─ name: browserify-sign
+│  ├─ version: 4.2.1
+│  ├─ description: adds node crypto signing for browsers
+│  └─ publisher: 
+├─ browserify-zlib@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/devongovett/browserify-zlib
+│  ├─ publisher: Devon Govett
+│  ├─ name: browserify-zlib
+│  ├─ version: 0.1.4
+│  └─ description: Full zlib module for browserify
+├─ browserify@13.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-browserify
+│  ├─ publisher: James Halliday
+│  ├─ copyright: Copyright Joyent, Inc. and other Node contributors.*
+│  ├─ name: browserify
+│  ├─ version: 13.0.1
+│  └─ description: browser-side require() the node way
+├─ buffer-equal@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-buffer-equal
+│  ├─ publisher: James Halliday
+│  ├─ name: buffer-equal
+│  ├─ version: 1.0.0
+│  └─ description: return whether two buffers are equal
+├─ buffer-from@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/LinusU/buffer-from
+│  ├─ copyright: Copyright (c) 2016, 2018 Linus Unnebäck
+│  ├─ name: buffer-from
+│  ├─ version: 1.1.1
+│  ├─ description: A [ponyfill](https://ponyfill.com) for `Buffer.from`, uses native implementation if available.
+│  └─ publisher: 
+├─ buffer-xor@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/buffer-xor
+│  ├─ publisher: Daniel Cousens
+│  ├─ copyright: Copyright (c) 2015 Daniel Cousens
+│  ├─ name: buffer-xor
+│  ├─ version: 1.0.3
+│  └─ description: A simple module for bitwise-xor on buffers
+├─ buffer@4.9.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ copyright: Copyright (c) Feross Aboukhadijeh, and other contributors.
+│  ├─ name: buffer
+│  ├─ version: 4.9.2
+│  └─ description: Node.js Buffer API, for the browser
+├─ builtin-status-codes@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bendrucker/builtin-status-codes
+│  ├─ publisher: Ben Drucker
+│  ├─ copyright: Copyright (c) Ben Drucker <bvdrucker@gmail.com> (bendrucker.me)
+│  ├─ name: builtin-status-codes
+│  ├─ version: 3.0.0
+│  └─ description: The map of HTTP status codes from the builtin http module
+├─ cache-base@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/cache-base
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: cache-base
+│  ├─ version: 1.0.1
+│  └─ description: Basic object cache with `get`, `set`, `del`, and `has` methods for node.js/javascript projects.
+├─ cached-path-relative@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ashaffer/cached-path-relative
+│  ├─ copyright: Copyright &copy; 2016, Weo.io &lt;info@weo.io&gt;
+│  ├─ name: cached-path-relative
+│  ├─ version: 1.0.2
+│  ├─ description: Memoize the results of the path.relative function
+│  └─ publisher: 
+├─ call-bind@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/call-bind
+│  ├─ publisher: Jordan Harband
+│  ├─ copyright: Copyright (c) 2020 Jordan Harband
+│  ├─ name: call-bind
+│  ├─ version: 1.0.2
+│  └─ description: Robustly `.call.bind()` a function
+├─ camelcase@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/camelcase
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: camelcase
+│  ├─ version: 3.0.0
+│  └─ description: Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar
+├─ chalk@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/chalk
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: chalk
+│  ├─ version: 1.1.3
+│  ├─ description: Terminal string styling done right. Much color.
+│  └─ publisher: 
+├─ chokidar@2.1.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/chokidar
+│  ├─ publisher: Paul Miller
+│  ├─ copyright: Copyright (c) 2012-2019 Paul Miller (https://paulmillr.com) & Elan Shanker
+│  ├─ name: chokidar
+│  ├─ version: 2.1.8
+│  └─ description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents.
+├─ cipher-base@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/cipher-base
+│  ├─ publisher: Calvin Metcalf
+│  ├─ copyright: Copyright (c) 2017 crypto-browserify contributors
+│  ├─ name: cipher-base
+│  ├─ version: 1.0.4
+│  └─ description: abstract base class for crypto-streams
+├─ class-utils@0.3.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/class-utils
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, 2017-2018, Jon Schlinkert.
+│  ├─ name: class-utils
+│  ├─ version: 0.3.6
+│  └─ description: Utils for working with JavaScript classes and prototype methods.
+├─ cliui@3.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/cliui
+│  ├─ publisher: Ben Coe
+│  ├─ copyright: Copyright (c) 2015, Contributors
+│  ├─ name: cliui
+│  ├─ version: 3.2.0
+│  └─ description: easily create complex multi-column command-line-interfaces
+├─ clone-buffer@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/clone-buffer
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2016 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: clone-buffer
+│  ├─ version: 1.0.0
+│  └─ description: Easier Buffer cloning in node.
+├─ clone-stats@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hughsk/clone-stats
+│  ├─ publisher: Hugh Kennedy
+│  ├─ copyright: Copyright (c) 2014 Hugh Kennedy
+│  ├─ name: clone-stats
+│  ├─ version: 0.0.1
+│  └─ description: Safely clone node's fs.Stats instances without losing their class methods
+├─ clone-stats@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hughsk/clone-stats
+│  ├─ publisher: Hugh Kennedy
+│  ├─ copyright: Copyright (c) 2014 Hugh Kennedy
+│  ├─ name: clone-stats
+│  ├─ version: 1.0.0
+│  └─ description: Safely clone node's fs.Stats instances without losing their class methods
+├─ clone@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pvorb/node-clone
+│  ├─ publisher: Paul Vorbach
+│  ├─ copyright: Copyright © 2011-2015 Paul Vorbach <paul@vorba.ch>
+│  ├─ name: clone
+│  ├─ version: 1.0.4
+│  └─ description: deep cloning of objects and arrays
+├─ clone@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pvorb/node-clone
+│  ├─ publisher: Paul Vorbach
+│  ├─ copyright: Copyright © 2011-2015 Paul Vorbach <paul@vorba.ch>
+│  ├─ name: clone
+│  ├─ version: 2.1.2
+│  └─ description: deep cloning of objects and arrays
+├─ cloneable-readable@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcollina/cloneable-readable
+│  ├─ publisher: Matteo Collina
+│  ├─ copyright: Copyright (c) 2016 Matteo Collina
+│  ├─ name: cloneable-readable
+│  ├─ version: 1.1.3
+│  └─ description: Clone a Readable stream, safely
+├─ code-point-at@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/code-point-at
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: code-point-at
+│  ├─ version: 1.1.0
+│  └─ description: ES2015 `String#codePointAt()` ponyfill
+├─ collection-map@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/collection-map
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, 2017, Jon Schlinkert
+│  ├─ name: collection-map
+│  ├─ version: 1.0.0
+│  └─ description: Returns an array of mapped values from an array or object.
+├─ collection-visit@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/collection-visit
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, 2017, Jon Schlinkert
+│  ├─ name: collection-visit
+│  ├─ version: 1.0.0
+│  └─ description: Visit a method over the items in an object, or map visit over the objects in an array.
+├─ color-support@1.1.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/color-support
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: color-support
+│  ├─ version: 1.1.3
+│  └─ description: A module which will endeavor to guess your terminal's level of color support.
+├─ colors@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Marak/colors.js
+│  ├─ publisher: Marak Squires
+│  ├─ name: colors
+│  ├─ version: 1.4.0
+│  └─ description: get colors in your node.js console
+├─ combine-source-map@0.8.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thlorenz/combine-source-map
+│  ├─ publisher: Thorsten Lorenz
+│  ├─ copyright: Copyright 2013 Thorsten Lorenz. . All rights reserved.
+│  ├─ name: combine-source-map
+│  ├─ version: 0.8.0
+│  └─ description: Add source maps of multiple files, offset them and then combine them into one source map
+├─ component-emitter@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/emitter
+│  ├─ copyright: Copyright (c) 2014 Component contributors <dev@component.io>
+│  ├─ name: component-emitter
+│  ├─ version: 1.3.0
+│  ├─ description: Event emitter
+│  └─ publisher: 
+├─ concat-map@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-concat-map
+│  ├─ publisher: James Halliday
+│  ├─ name: concat-map
+│  ├─ version: 0.0.1
+│  └─ description: concatenative mapdashery
+├─ concat-stream@1.5.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/maxogden/concat-stream
+│  ├─ publisher: Max Ogden
+│  ├─ copyright: Copyright (c) 2013 Max Ogden
+│  ├─ name: concat-stream
+│  ├─ version: 1.5.2
+│  └─ description: writable stream that concatenates strings or binary data and calls a callback with the result
+├─ concat-stream@1.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/maxogden/concat-stream
+│  ├─ publisher: Max Ogden
+│  ├─ copyright: Copyright (c) 2013 Max Ogden
+│  ├─ name: concat-stream
+│  ├─ version: 1.6.2
+│  └─ description: writable stream that concatenates strings or binary data and calls a callback with the result
+├─ console-browserify@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/console-browserify
+│  ├─ publisher: Raynos
+│  ├─ copyright: Copyright (c) 2012 Raynos.
+│  ├─ name: console-browserify
+│  ├─ version: 1.2.0
+│  └─ description: Emulate console for all the browsers
+├─ constants-browserify@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/constants-browserify
+│  ├─ publisher: Julian Gruber
+│  ├─ copyright: Copyright (c) 2013 Julian Gruber &lt;julian@juliangruber.com&gt;
+│  ├─ name: constants-browserify
+│  ├─ version: 1.0.0
+│  └─ description: node's constants module for the browser
+├─ convert-source-map@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thlorenz/convert-source-map
+│  ├─ publisher: Thorsten Lorenz
+│  ├─ copyright: Copyright 2013 Thorsten Lorenz. . All rights reserved.
+│  ├─ name: convert-source-map
+│  ├─ version: 1.1.3
+│  └─ description: Converts a source-map from/to  different formats and allows adding/changing properties.
+├─ convert-source-map@1.8.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thlorenz/convert-source-map
+│  ├─ publisher: Thorsten Lorenz
+│  ├─ copyright: Copyright 2013 Thorsten Lorenz. . All rights reserved.
+│  ├─ name: convert-source-map
+│  ├─ version: 1.8.0
+│  └─ description: Converts a source-map from/to  different formats and allows adding/changing properties.
+├─ copy-descriptor@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/copy-descriptor
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2016, Jon Schlinkert
+│  ├─ name: copy-descriptor
+│  ├─ version: 0.1.1
+│  └─ description: Copy a descriptor from object A to object B
+├─ copy-props@2.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/copy-props
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2016-2021 Gulp Team.
+│  ├─ name: copy-props
+│  ├─ version: 2.0.5
+│  └─ description: Copy properties deeply between two objects.
+├─ core-util-is@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/core-util-is
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright Node.js contributors. All rights reserved.
+│  ├─ name: core-util-is
+│  ├─ version: 1.0.2
+│  └─ description: The `util.is*` functions introduced in Node v0.12.
+├─ create-ecdh@4.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/createECDH
+│  ├─ publisher: Calvin Metcalf
+│  ├─ copyright: Copyright (c) 2014-2017 createECDH contributors
+│  ├─ name: create-ecdh
+│  ├─ version: 4.0.4
+│  └─ description: createECDH but browserifiable
+├─ create-hash@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/createHash
+│  ├─ copyright: Copyright (c) 2017 crypto-browserify contributors
+│  ├─ name: create-hash
+│  ├─ version: 1.2.0
+│  ├─ description: create hashes for browserify
+│  └─ publisher: 
+├─ create-hmac@1.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/createHmac
+│  ├─ copyright: Copyright (c) 2017 crypto-browserify contributors
+│  ├─ name: create-hmac
+│  ├─ version: 1.1.7
+│  ├─ description: node style hmacs in the browser
+│  └─ publisher: 
+├─ crypto-browserify@3.12.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/crypto-browserify
+│  ├─ publisher: Dominic Tarr
+│  ├─ copyright: Copyright (c) 2013 Dominic Tarr
+│  ├─ name: crypto-browserify
+│  ├─ version: 3.12.0
+│  └─ description: implementation of crypto for the browser
+├─ d@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/medikoo/d
+│  ├─ publisher: Mariusz Nowak
+│  ├─ copyright: Copyright (c) 2013-2019, Mariusz Nowak, @medikoo, medikoo.com
+│  ├─ name: d
+│  ├─ version: 1.0.1
+│  └─ description: Property descriptor factory
+├─ dash-ast@1.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/goto-bus-stop/dash-ast
+│  ├─ publisher: Renée Kooi
+│  ├─ copyright: Copyright 2018 Renée Kooi <renee@kooi.me>
+│  ├─ name: dash-ast
+│  ├─ version: 1.0.0
+│  └─ description: walk an AST, quickly
+├─ dateformat@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-dateformat
+│  ├─ publisher: Steven Levithan
+│  ├─ name: dateformat
+│  ├─ version: 2.2.0
+│  └─ description: A node.js package for Steven Levithan's excellent dateFormat() function.
+├─ debug@2.6.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/debug
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ copyright: Copyright (c) 2014 TJ Holowaychuk <tj@vision-media.ca>
+│  ├─ name: debug
+│  ├─ version: 2.6.9
+│  └─ description: small debugging utility
+├─ decamelize@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/decamelize
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: decamelize
+│  ├─ version: 1.2.0
+│  └─ description: Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow
+├─ decode-uri-component@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/SamVerschueren/decode-uri-component
+│  ├─ publisher: Sam Verschueren
+│  ├─ copyright: Copyright (c) Sam Verschueren <sam.verschueren@gmail.com> (github.com/SamVerschueren)
+│  ├─ name: decode-uri-component
+│  ├─ version: 0.2.0
+│  └─ description: A better decodeURIComponent
+├─ default-compare@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/doowb/default-compare
+│  ├─ publisher: Brian Woodward
+│  ├─ copyright: Copyright (c) 2017, Brian Woodward.
+│  ├─ name: default-compare
+│  ├─ version: 1.0.0
+│  └─ description: Basic sort algorithm that has similar behavior to Array.prototype.sort for null and undefined, but also allows sorting by an object property.
+├─ default-resolution@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/default-resolution
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2015 Blaine Bublitz, Eric Schoffstall and other contributors
+│  ├─ name: default-resolution
+│  ├─ version: 2.0.0
+│  └─ description: Get the default resolution time based on the current node version, optionally overridable
+├─ define-properties@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/define-properties
+│  ├─ publisher: Jordan Harband
+│  ├─ copyright: Copyright (C) 2015 Jordan Harband
+│  ├─ name: define-properties
+│  ├─ version: 1.1.4
+│  └─ description: Define multiple non-enumerable properties at once. Uses `Object.defineProperty` when available; falls back to standard assignment in older engines.
+├─ define-property@0.2.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/define-property
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, Jon Schlinkert.
+│  ├─ name: define-property
+│  ├─ version: 0.2.5
+│  └─ description: Define a non-enumerable property on an object.
+├─ define-property@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/define-property
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, 2017, Jon Schlinkert
+│  ├─ name: define-property
+│  ├─ version: 1.0.0
+│  └─ description: Define a non-enumerable property on an object.
+├─ define-property@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/define-property
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2018, Jon Schlinkert.
+│  ├─ name: define-property
+│  ├─ version: 2.0.2
+│  └─ description: Define a non-enumerable property on an object. Uses Reflect.defineProperty when available, otherwise Object.defineProperty.
+├─ defined@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/defined
+│  ├─ publisher: James Halliday
+│  ├─ name: defined
+│  ├─ version: 1.0.0
+│  └─ description: return the first argument that is `!== undefined`
+├─ del@2.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/del
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: del
+│  ├─ version: 2.2.2
+│  └─ description: Delete files and folders
+├─ deps-sort@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/deps-sort
+│  ├─ publisher: James Halliday
+│  ├─ copyright: Copyright (c) James Halliday and browserify contributors
+│  ├─ name: deps-sort
+│  ├─ version: 2.0.1
+│  └─ description: sort module-deps output for deterministic browserify bundles
+├─ des.js@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/des.js
+│  ├─ publisher: Fedor Indutny
+│  ├─ copyright: Copyright Fedor Indutny, 2015.
+│  ├─ name: des.js
+│  ├─ version: 1.0.1
+│  └─ description: DES implementation
+├─ detect-file@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/doowb/detect-file
+│  ├─ publisher: Brian Woodward
+│  ├─ copyright: Copyright (c) 2016-2017, Brian Woodward.
+│  ├─ name: detect-file
+│  ├─ version: 1.0.0
+│  └─ description: Detects if a file exists and returns the resolved filepath.
+├─ detective@4.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/detective
+│  ├─ publisher: James Halliday
+│  ├─ name: detective
+│  ├─ version: 4.7.1
+│  └─ description: find all require() calls by walking the AST
+├─ diff@2.2.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/kpdecker/jsdiff
+│  ├─ copyright: Copyright (c) 2009-2015, Kevin Decker <kpdecker@gmail.com>
+│  ├─ name: diff
+│  ├─ version: 2.2.3
+│  ├─ description: A javascript text diff implementation.
+│  └─ publisher: 
+├─ diffie-hellman@5.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/diffie-hellman
+│  ├─ publisher: Calvin Metcalf
+│  ├─ copyright: Copyright (c) 2017 Calvin Metcalf
+│  ├─ name: diffie-hellman
+│  ├─ version: 5.0.3
+│  └─ description: pure js diffie-hellman
+├─ domain-browser@1.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bevry/domain-browser
+│  ├─ publisher: 2013+ Bevry Pty Ltd
+│  ├─ name: domain-browser
+│  ├─ version: 1.1.7
+│  └─ description: Node's domain module for the web browser. This is merely an evented try...catch with the same API as node, nothing more.
+├─ duplexer2@0.0.2
+│  ├─ licenses: BSD*
+│  ├─ repository: https://github.com/deoxxa/duplexer2
+│  ├─ publisher: Conrad Pankoff
+│  ├─ copyright: Copyright (c) 2013, Deoxxa Development. ======================================. All rights reserved.. --------------------.   . Redistribution and use in source and binary forms, with or without. modification, are permitted provided that the following conditions are met:  . 1. Redistributions of source code must retain the above copyright.    notice, this list of conditions and the following disclaimer.  . 2. Redistributions in binary form must reproduce the above copyright.    notice, this list of conditions and the following disclaimer in the.    documentation and/or other materials provided with the distribution.  . 3. Neither the name of Deoxxa Development nor the names of its contributors.    may be used to endorse or promote products derived from this software.    without specific prior written permission.  .   . THIS SOFTWARE IS PROVIDED BY DEOXXA DEVELOPMENT ''AS IS'' AND ANY. EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED. WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE. DISCLAIMED. IN NO EVENT SHALL DEOXXA DEVELOPMENT BE LIABLE FOR ANY. DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES. (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;. LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND. ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT. (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS. SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE..
+│  ├─ name: duplexer2
+│  ├─ version: 0.0.2
+│  └─ description: Like duplexer (http://npm.im/duplexer) but using streams2
+├─ duplexer2@0.1.4
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/deoxxa/duplexer2
+│  ├─ publisher: Conrad Pankoff
+│  ├─ copyright: Copyright (c) 2013, Deoxxa Development. ======================================. All rights reserved.. --------------------.   . Redistribution and use in source and binary forms, with or without. modification, are permitted provided that the following conditions are met:  . 1. Redistributions of source code must retain the above copyright.    notice, this list of conditions and the following disclaimer.  . 2. Redistributions in binary form must reproduce the above copyright.    notice, this list of conditions and the following disclaimer in the.    documentation and/or other materials provided with the distribution.  . 3. Neither the name of Deoxxa Development nor the names of its contributors.    may be used to endorse or promote products derived from this software.    without specific prior written permission.  .   . THIS SOFTWARE IS PROVIDED BY DEOXXA DEVELOPMENT ''AS IS'' AND ANY. EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED. WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE. DISCLAIMED. IN NO EVENT SHALL DEOXXA DEVELOPMENT BE LIABLE FOR ANY. DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES. (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;. LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND. ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT. (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS. SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE..
+│  ├─ name: duplexer2
+│  ├─ version: 0.1.4
+│  └─ description: Like duplexer but using streams3
+├─ duplexify@3.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/duplexify
+│  ├─ publisher: Mathias Buus
+│  ├─ copyright: Copyright (c) 2014 Mathias Buus
+│  ├─ name: duplexify
+│  ├─ version: 3.7.1
+│  └─ description: Turn a writable and readable stream into a streams2 duplex stream with support for async initialization and streams1/streams2 input
+├─ each-props@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sttk/each-props
+│  ├─ publisher: Takayuki Sato
+│  ├─ copyright: Copyright (c) 2016 Takayuki Sato
+│  ├─ name: each-props
+│  ├─ version: 1.3.2
+│  └─ description: Processes each properties of an object deeply.
+├─ elliptic@6.5.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/elliptic
+│  ├─ publisher: Fedor Indutny
+│  ├─ copyright: Copyright Fedor Indutny, 2014.
+│  ├─ name: elliptic
+│  ├─ version: 6.5.3
+│  └─ description: EC cryptography
+├─ end-of-stream@1.4.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/end-of-stream
+│  ├─ publisher: Mathias Buus
+│  ├─ copyright: Copyright (c) 2014 Mathias Buus
+│  ├─ name: end-of-stream
+│  ├─ version: 1.4.4
+│  └─ description: Call a callback when a readable/writable/duplex stream has completed or failed.
+├─ error-ex@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/qix-/node-error-ex
+│  ├─ copyright: Copyright (c) 2015 JD Ballard
+│  ├─ name: error-ex
+│  ├─ version: 1.3.2
+│  ├─ description: Easy error subclassing and stack customization
+│  └─ publisher: 
+├─ es5-ext@0.10.62
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/medikoo/es5-ext
+│  ├─ publisher: Mariusz Nowak
+│  ├─ copyright: Copyright (c) 2011-2022, Mariusz Nowak, @medikoo, medikoo.com
+│  ├─ name: es5-ext
+│  ├─ version: 0.10.62
+│  └─ description: ECMAScript extensions and shims
+├─ es6-iterator@2.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/medikoo/es6-iterator
+│  ├─ publisher: Mariusz Nowak
+│  ├─ copyright: Copyright (C) 2013-2017 Mariusz Nowak (www.medikoo.com)
+│  ├─ name: es6-iterator
+│  ├─ version: 2.0.3
+│  └─ description: Iterator abstraction based on ES6 specification
+├─ es6-promise@4.2.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stefanpenner/es6-promise
+│  ├─ publisher: Yehuda Katz, Tom Dale, Stefan Penner and contributors
+│  ├─ copyright: Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors
+│  ├─ name: es6-promise
+│  ├─ version: 4.2.8
+│  └─ description: A lightweight library that provides tools for organizing asynchronous code
+├─ es6-symbol@3.1.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/medikoo/es6-symbol
+│  ├─ publisher: Mariusz Nowak
+│  ├─ copyright: Copyright (c) 2013-2019, Mariusz Nowak, @medikoo, medikoo.com
+│  ├─ name: es6-symbol
+│  ├─ version: 3.1.3
+│  └─ description: ECMAScript 6 Symbol polyfill
+├─ es6-weak-map@2.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/medikoo/es6-weak-map
+│  ├─ publisher: Mariusz Nowak
+│  ├─ copyright: Copyright (c) 2013-2018, Mariusz Nowak, @medikoo, medikoo.com
+│  ├─ name: es6-weak-map
+│  ├─ version: 2.0.3
+│  └─ description: ECMAScript6 WeakMap polyfill
+├─ escape-string-regexp@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/escape-string-regexp
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: escape-string-regexp
+│  ├─ version: 1.0.5
+│  └─ description: Escape RegExp special characters
+├─ event-lite@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kawanet/event-lite
+│  ├─ publisher: @kawanet
+│  ├─ copyright: Copyright (c) 2015 Yusuke Kawasaki
+│  ├─ name: event-lite
+│  ├─ version: 0.1.2
+│  └─ description: Light-weight EventEmitter (less than 1KB when gzipped)
+├─ eventemitter3@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/primus/eventemitter3
+│  ├─ publisher: Arnout Kazemier
+│  ├─ copyright: Copyright (c) 2014 Arnout Kazemier
+│  ├─ name: eventemitter3
+│  ├─ version: 3.1.2
+│  └─ description: EventEmitter3 focuses on performance while maintaining a Node.js AND browser compatible interface.
+├─ events@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Gozala/events
+│  ├─ publisher: Irakli Gozalishvili
+│  ├─ copyright: Copyright Joyent, Inc. and other Node contributors.
+│  ├─ name: events
+│  ├─ version: 1.1.1
+│  └─ description: Node's event emitter for all engines.
+├─ evp_bytestokey@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/EVP_BytesToKey
+│  ├─ publisher: Calvin Metcalf
+│  ├─ copyright: Copyright (c) 2017 crypto-browserify contributors
+│  ├─ name: evp_bytestokey
+│  ├─ version: 1.0.3
+│  └─ description: The insecure key derivation algorithm from OpenSSL
+├─ expand-brackets@2.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/expand-brackets
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2016, Jon Schlinkert
+│  ├─ name: expand-brackets
+│  ├─ version: 2.1.4
+│  └─ description: Expand POSIX bracket expressions (character classes) in glob patterns.
+├─ expand-tilde@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/expand-tilde
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2016, Jon Schlinkert.
+│  ├─ name: expand-tilde
+│  ├─ version: 2.0.2
+│  └─ description: Bash-like tilde expansion for node.js. Expands a leading tilde in a file path to the user home directory, or `~+` to the cwd.
+├─ ext@1.7.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/medikoo/es5-ext.git#ext
+│  ├─ publisher: Mariusz Nowak
+│  ├─ copyright: Copyright (c) 2011-2022, Mariusz Nowak, @medikoo, medikoo.com
+│  ├─ name: ext
+│  ├─ version: 1.7.0
+│  └─ description: JavaScript utilities with respect to emerging standard
+├─ extend-shallow@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/extend-shallow
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2015, Jon Schlinkert.
+│  ├─ name: extend-shallow
+│  ├─ version: 2.0.1
+│  └─ description: Extend an object with the properties of additional objects. node.js/javascript util.
+├─ extend-shallow@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/extend-shallow
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2015, 2017, Jon Schlinkert.
+│  ├─ name: extend-shallow
+│  ├─ version: 3.0.2
+│  └─ description: Extend an object with the properties of additional objects. node.js/javascript util.
+├─ extend@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/justmoon/node-extend
+│  ├─ publisher: Stefan Thomas
+│  ├─ copyright: Copyright (c) 2014 Stefan Thomas
+│  ├─ name: extend
+│  ├─ version: 3.0.2
+│  └─ description: Port of jQuery.extend for node.js and the browser
+├─ extglob@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/extglob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: extglob
+│  ├─ version: 2.0.4
+│  └─ description: Extended glob support for JavaScript. Adds (almost) the expressive power of regular expressions to glob patterns.
+├─ fancy-log@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/fancy-log
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014, 2015, 2018 Blaine Bublitz <blaine.bublitz@gmail.com> and Eric Schoffstall <yo@contra.io>
+│  ├─ name: fancy-log
+│  ├─ version: 1.3.3
+│  └─ description: Log things, prefixed with a timestamp.
+├─ fast-levenshtein@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hiddentao/fast-levenshtein
+│  ├─ publisher: Ramesh Nair
+│  ├─ copyright: Copyright (c) 2013 [Ramesh Nair](http://www.hiddentao.com/)
+│  ├─ name: fast-levenshtein
+│  ├─ version: 1.1.4
+│  └─ description: Efficient implementation of Levenshtein algorithm with asynchronous callback support
+├─ fast-safe-stringify@2.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidmarkclements/fast-safe-stringify
+│  ├─ publisher: David Mark Clements
+│  ├─ copyright: Copyright (c) 2016 David Mark Clements. Copyright (c) 2017 David Mark Clements & Matteo Collina. Copyright (c) 2018 David Mark Clements, Matteo Collina & Ruben Bridgewater
+│  ├─ name: fast-safe-stringify
+│  ├─ version: 2.0.7
+│  └─ description: Safely and quickly serialize JavaScript objects
+├─ file-uri-to-path@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/file-uri-to-path
+│  ├─ publisher: Nathan Rajlich
+│  ├─ copyright: Copyright (c) 2014 Nathan Rajlich <nathan@tootallnate.net>
+│  ├─ name: file-uri-to-path
+│  ├─ version: 1.0.0
+│  └─ description: Convert a file: URI to a file path
+├─ fill-range@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/fill-range
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert
+│  ├─ name: fill-range
+│  ├─ version: 4.0.0
+│  └─ description: Fill in a range of numbers or letters, optionally passing an increment or `step` to use, or create a regex-compatible range with `options.toRegex`
+├─ find-up@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/find-up
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: find-up
+│  ├─ version: 1.1.2
+│  └─ description: Find a file by walking up parent directories
+├─ findup-sync@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/cowboy/node-findup-sync
+│  ├─ publisher: "Cowboy" Ben Alman
+│  ├─ copyright: Copyright (c) 2013 "Cowboy" Ben Alman
+│  ├─ name: findup-sync
+│  ├─ version: 0.3.0
+│  └─ description: Find the first file matching a given pattern in the current directory or the nearest ancestor directory.
+├─ findup-sync@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/js-cli/node-findup-sync
+│  ├─ publisher: "Cowboy" Ben Alman
+│  ├─ copyright: Copyright (c) 2012-2016 "Cowboy" Ben Alman  . Released under the MIT license
+│  ├─ name: findup-sync
+│  ├─ version: 2.0.0
+│  └─ description: Find the first file matching a given pattern in the current directory or the nearest ancestor directory.
+├─ findup-sync@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/findup-sync
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2013-2018 Ben Alman <cowboy@rj3.net>, Blaine Bublitz <blaine.bublitz@gmail.com>, and Eric Schoffstall <yo@contra.io>
+│  ├─ name: findup-sync
+│  ├─ version: 3.0.0
+│  └─ description: Find the first file matching a given pattern in the current directory or the nearest ancestor directory.
+├─ fined@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/fined
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2016, 2017, 2018 Blaine Bublitz <blaine.bublitz@gmail.com> and Eric Schoffstall <yo@contra.io>
+│  ├─ name: fined
+│  ├─ version: 1.2.0
+│  └─ description: Find a file given a declaration of locations.
+├─ flagged-respawn@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/flagged-respawn
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014-2018 Tyler Kellen <tyler@sleekcode.net>, Blaine Bublitz <blaine.bublitz@gmail.com>, and Eric Schoffstall <yo@contra.io>
+│  ├─ name: flagged-respawn
+│  ├─ version: 1.0.1
+│  └─ description: A tool for respawning node binaries when special flags are present.
+├─ flush-write-stream@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/flush-write-stream
+│  ├─ publisher: Mathias Buus
+│  ├─ copyright: Copyright (c) 2015 Mathias Buus
+│  ├─ name: flush-write-stream
+│  ├─ version: 1.1.1
+│  └─ description: A write stream constructor that supports a flush function that is called before finish is emitted
+├─ for-in@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/for-in
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert
+│  ├─ name: for-in
+│  ├─ version: 1.0.2
+│  └─ description: Iterate over the own and inherited enumerable properties of an object, and return an object with properties that evaluate to true from the callback. Exit early by returning `false`. JavaScript/Node.js
+├─ for-own@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/for-own
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2015, 2017, Jon Schlinkert
+│  ├─ name: for-own
+│  ├─ version: 1.0.0
+│  └─ description: Iterate over the own enumerable properties of an object, and return an object with properties that evaluate to true from the callback. Exit early by returning `false`. JavaScript/Node.js.
+├─ fragment-cache@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/fragment-cache
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2016-2017, Jon Schlinkert
+│  ├─ name: fragment-cache
+│  ├─ version: 0.2.1
+│  └─ description: A cache for managing namespaced sub-caches
+├─ fs-mkdirp-stream@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/fs-mkdirp-stream
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors (Originally based on code from node-mkdirp - MIT/X11 license - Copyright 2010 James Halliday)
+│  ├─ name: fs-mkdirp-stream
+│  ├─ version: 1.0.0
+│  └─ description: Ensure directories exist before writing to them.
+├─ fs.realpath@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/fs.realpath
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: fs.realpath
+│  ├─ version: 1.0.0
+│  └─ description: Use node's fs.realpath, but fall back to the JS implementation if the native one fails
+├─ fsevents@1.2.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/strongloop/fsevents
+│  ├─ publisher: Philipp Dunkel
+│  ├─ copyright: Copyright (C) 2010-2014 Philipp Dunkel
+│  ├─ name: fsevents
+│  ├─ version: 1.2.13
+│  └─ description: Native Access to Mac OS-X FSEvents
+├─ function-bind@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/function-bind
+│  ├─ publisher: Raynos
+│  ├─ copyright: Copyright (c) 2013 Raynos.
+│  ├─ name: function-bind
+│  ├─ version: 1.1.1
+│  └─ description: Implementation of Function.prototype.bind
+├─ get-assigned-identifiers@1.2.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/goto-bus-stop/get-assigned-identifiers
+│  ├─ publisher: Renée Kooi
+│  ├─ copyright: Copyright 2017 Renée Kooi <renee@kooi.me>
+│  ├─ name: get-assigned-identifiers
+│  ├─ version: 1.2.0
+│  └─ description: get a list of identifiers that are initialised by a JavaScript AST node.
+├─ get-caller-file@1.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/stefanpenner/get-caller-file
+│  ├─ publisher: Stefan Penner
+│  ├─ name: get-caller-file
+│  ├─ version: 1.0.3
+│  └─ description: [![Build Status](https://travis-ci.org/stefanpenner/get-caller-file.svg?branch=master)](https://travis-ci.org/stefanpenner/get-caller-file) [![Build status](https://ci.appveyor.com/api/projects/status/ol2q94g1932cy14a/branch/master?svg=true)](https://ci.appveyor.com/project/embercli/get-caller-file/branch/master)
+├─ get-intrinsic@1.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/get-intrinsic
+│  ├─ publisher: Jordan Harband
+│  ├─ copyright: Copyright (c) 2020 Jordan Harband
+│  ├─ name: get-intrinsic
+│  ├─ version: 1.1.3
+│  └─ description: Get and robustly cache all JS language-level intrinsics at first require time
+├─ get-value@2.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/get-value
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert.
+│  ├─ name: get-value
+│  ├─ version: 2.0.6
+│  └─ description: Use property paths (`a.b.c`) to get a nested value from an object.
+├─ glob-parent@3.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/es128/glob-parent
+│  ├─ publisher: Elan Shanker
+│  ├─ copyright: Copyright (c) 2015 Elan Shanker
+│  ├─ name: glob-parent
+│  ├─ version: 3.1.0
+│  └─ description: Strips glob magic from a string to provide the parent directory path
+├─ glob-stream@6.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/glob-stream
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2015-2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: glob-stream
+│  ├─ version: 6.1.0
+│  └─ description: A Readable Stream interface over node-glob.
+├─ glob-watcher@5.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/glob-watcher
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: glob-watcher
+│  ├─ version: 5.0.5
+│  └─ description: Watch globs and execute a function upon change, with intelligent defaults for debouncing and queueing.
+├─ glob@5.0.15
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: glob
+│  ├─ version: 5.0.15
+│  └─ description: a little globber
+├─ glob@7.1.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: glob
+│  ├─ version: 7.1.6
+│  └─ description: a little globber
+├─ glob@7.2.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: glob
+│  ├─ version: 7.2.3
+│  └─ description: a little globber
+├─ global-modules@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/global-modules
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: global-modules
+│  ├─ version: 1.0.0
+│  └─ description: The directory used by npm for globally installed npm modules.
+├─ global-prefix@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/global-prefix
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: global-prefix
+│  ├─ version: 1.0.2
+│  └─ description: Get the npm global path prefix.
+├─ globby@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/globby
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: globby
+│  ├─ version: 5.0.0
+│  └─ description: Extends `glob` with support for multiple patterns and exposes a Promise API
+├─ glogg@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/glogg
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014, 2015, 2018 Blaine Bublitz <blaine.bublitz@gmail.com> and Eric Schoffstall <yo@contra.io>
+│  ├─ name: glogg
+│  ├─ version: 1.0.2
+│  └─ description: Global logging utility
+├─ graceful-fs@4.2.10
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-graceful-fs
+│  ├─ copyright: Copyright (c) 2011-2022 Isaac Z. Schlueter, Ben Noordhuis, and Contributors
+│  ├─ name: graceful-fs
+│  ├─ version: 4.2.10
+│  ├─ description: A drop-in replacement for fs, making various improvements.
+│  └─ publisher: 
+├─ gulp-cli@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/gulp-cli
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2015 Blaine Bublitz, Eric Schoffstall and other contributors
+│  ├─ name: gulp-cli
+│  ├─ version: 2.3.0
+│  └─ description: Command line interface for gulp
+├─ gulp-jasmine@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/gulp-jasmine
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: gulp-jasmine
+│  ├─ version: 4.0.0
+│  └─ description: Run Jasmine tests
+├─ gulp-tslint@4.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/panuhorsmalahti/gulp-tslint
+│  ├─ publisher: Panu Horsmalahti
+│  ├─ copyright: Copyright (c) 2014 Panu Horsmalahti
+│  ├─ name: gulp-tslint
+│  ├─ version: 4.3.5
+│  └─ description: TypeScript linter Gulp plugin
+├─ gulp-util@3.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/gulp-util
+│  ├─ publisher: Fractal
+│  ├─ copyright: Copyright (c) 2014 Fractal <contact@wearefractal.com>
+│  ├─ name: gulp-util
+│  ├─ version: 3.0.8
+│  └─ description: Utility functions for gulp plugins
+├─ gulp@4.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/gulp
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2013-2018 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: gulp
+│  ├─ version: 4.0.2
+│  └─ description: The streaming build system.
+├─ gulplog@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/gulplog
+│  ├─ publisher: Blaine Bublitz
+│  ├─ copyright: Copyright (c) 2015 Blaine Bublitz, Eric Schoffstall and other contributors
+│  ├─ name: gulplog
+│  ├─ version: 1.0.0
+│  └─ description: Logger for gulp and gulp plugins
+├─ has-ansi@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: has-ansi
+│  ├─ version: 2.0.0
+│  └─ description: Check if a string has ANSI escape codes
+├─ has-gulplog@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/has-gulplog
+│  ├─ publisher: Blaine Bublitz
+│  ├─ copyright: Copyright (c) 2015 gulp
+│  ├─ name: has-gulplog
+│  ├─ version: 0.1.0
+│  └─ description: Check if gulplog is available before attempting to use it
+├─ has-property-descriptors@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-property-descriptors
+│  ├─ publisher: Jordan Harband
+│  ├─ copyright: Copyright (c) 2022 Inspect JS
+│  ├─ name: has-property-descriptors
+│  ├─ version: 1.0.0
+│  └─ description: Does the environment have full property descriptor support? Handles IE 8's broken defineProperty/gOPD.
+├─ has-symbols@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-symbols
+│  ├─ publisher: Jordan Harband
+│  ├─ copyright: Copyright (c) 2016 Jordan Harband
+│  ├─ name: has-symbols
+│  ├─ version: 1.0.3
+│  └─ description: Determine if the JS environment has Symbol support. Supports spec, or shams.
+├─ has-value@0.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/has-value
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert.
+│  ├─ name: has-value
+│  ├─ version: 0.3.1
+│  └─ description: Returns true if a value exists, false if empty. Works with deeply nested values using object paths.
+├─ has-value@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/has-value
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert
+│  ├─ name: has-value
+│  ├─ version: 1.0.0
+│  └─ description: Returns true if a value exists, false if empty. Works with deeply nested values using object paths.
+├─ has-values@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/has-values
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert.
+│  ├─ name: has-values
+│  ├─ version: 0.1.4
+│  └─ description: Returns true if any values exist, false if empty. Works for booleans, functions, numbers, strings, nulls, objects and arrays. 
+├─ has-values@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/has-values
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert
+│  ├─ name: has-values
+│  ├─ version: 1.0.0
+│  └─ description: Returns true if any values exist, false if empty. Works for booleans, functions, numbers, strings, nulls, objects and arrays. 
+├─ has@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tarruda/has
+│  ├─ publisher: Thiago de Arruda
+│  ├─ copyright: Copyright (c) 2013 Thiago de Arruda
+│  ├─ name: has
+│  ├─ version: 1.0.3
+│  └─ description: Object.prototype.hasOwnProperty.call shortcut
+├─ hash-base@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/hash-base
+│  ├─ publisher: Kirill Fomichev
+│  ├─ copyright: Copyright (c) 2016 Kirill Fomichev
+│  ├─ name: hash-base
+│  ├─ version: 3.1.0
+│  └─ description: abstract base class for hash-streams
+├─ hash.js@1.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/hash.js
+│  ├─ publisher: Fedor Indutny
+│  ├─ copyright: Copyright Fedor Indutny, 2014.
+│  ├─ name: hash.js
+│  ├─ version: 1.1.7
+│  └─ description: Various hash functions that could be run by both browser and node
+├─ hmac-drbg@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/hmac-drbg
+│  ├─ publisher: Fedor Indutny
+│  ├─ copyright: Copyright Fedor Indutny, 2017.
+│  ├─ name: hmac-drbg
+│  ├─ version: 1.0.1
+│  └─ description: Deterministic random bit generator (hmac)
+├─ homedir-polyfill@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/doowb/homedir-polyfill
+│  ├─ publisher: Brian Woodward
+│  ├─ copyright: Copyright (c) 2016 Brian Woodward
+│  ├─ name: homedir-polyfill
+│  ├─ version: 1.0.3
+│  └─ description: Node.js os.homedir polyfill for older versions of node.js.
+├─ hosted-git-info@2.8.9
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/hosted-git-info
+│  ├─ publisher: Rebecca Turner
+│  ├─ copyright: Copyright (c) 2015, Rebecca Turner
+│  ├─ name: hosted-git-info
+│  ├─ version: 2.8.9
+│  └─ description: Provides metadata and conversions from repository urls for Github, Bitbucket and Gitlab
+├─ htmlescape@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zertosh/htmlescape
+│  ├─ publisher: Andres Suarez
+│  ├─ copyright: Copyright (c) 2014 Andres Suarez
+│  ├─ name: htmlescape
+│  ├─ version: 1.1.1
+│  └─ description: Properly escape JSON for usage as an object literal inside of a `<script>` tag
+├─ https-browserify@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/https-browserify
+│  ├─ publisher: James Halliday
+│  ├─ name: https-browserify
+│  ├─ version: 0.0.1
+│  └─ description: https module compatability for browserify
+├─ ieee754@1.2.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/feross/ieee754
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ copyright: Copyright 2008 Fair Oaks Labs, Inc.
+│  ├─ name: ieee754
+│  ├─ version: 1.2.1
+│  └─ description: Read/write IEEE754 floating point numbers from/to a Buffer or array-like object
+├─ indent-string@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/indent-string
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: indent-string
+│  ├─ version: 2.1.0
+│  └─ description: Indent each line in a string
+├─ indexof@0.0.1
+│  ├─ licenses: MIT*
+│  ├─ name: indexof
+│  ├─ version: 0.0.1
+│  ├─ description: Microsoft sucks
+│  ├─ repository: 
+│  └─ publisher: 
+├─ inflight@1.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/inflight
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter
+│  ├─ name: inflight
+│  ├─ version: 1.0.6
+│  └─ description: Add callbacks to requests in flight to avoid async duplication
+├─ inherits@2.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter
+│  ├─ name: inherits
+│  ├─ version: 2.0.1
+│  ├─ description: Browser-friendly inheritance fully compatible with standard node.js inherits()
+│  └─ publisher: 
+├─ inherits@2.0.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter
+│  ├─ name: inherits
+│  ├─ version: 2.0.3
+│  ├─ description: Browser-friendly inheritance fully compatible with standard node.js inherits()
+│  └─ publisher: 
+├─ inherits@2.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter
+│  ├─ name: inherits
+│  ├─ version: 2.0.4
+│  ├─ description: Browser-friendly inheritance fully compatible with standard node.js inherits()
+│  └─ publisher: 
+├─ ini@1.3.8
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/ini
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: ini
+│  ├─ version: 1.3.8
+│  └─ description: An ini encoder/decoder for node
+├─ inline-source-map@0.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thlorenz/inline-source-map
+│  ├─ publisher: Thorsten Lorenz
+│  ├─ copyright: Copyright 2013 Thorsten Lorenz. . All rights reserved.
+│  ├─ name: inline-source-map
+│  ├─ version: 0.6.2
+│  └─ description: Adds source mappings and base64 encodes them, so they can be inlined in your generated file.
+├─ insert-module-globals@7.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/insert-module-globals
+│  ├─ publisher: James Halliday
+│  ├─ name: insert-module-globals
+│  ├─ version: 7.2.1
+│  └─ description: insert implicit module globals into a module-deps stream
+├─ int64-buffer@0.1.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kawanet/int64-buffer
+│  ├─ publisher: @kawanet
+│  ├─ copyright: Copyright (c) 2015-2016 Yusuke Kawasaki
+│  ├─ name: int64-buffer
+│  ├─ version: 0.1.10
+│  └─ description: 64bit Long Integer on Buffer/Array/ArrayBuffer in Pure JavaScript
+├─ interpret@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/interpret
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014-2018 Tyler Kellen <tyler@sleekcode.net>, Blaine Bublitz <blaine.bublitz@gmail.com>, and Eric Schoffstall <yo@contra.io>
+│  ├─ name: interpret
+│  ├─ version: 1.4.0
+│  └─ description: A dictionary of file extensions and associated module loaders.
+├─ invert-kv@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/invert-kv
+│  ├─ publisher: Sindre Sorhus
+│  ├─ name: invert-kv
+│  ├─ version: 1.0.0
+│  └─ description: Invert the key/value of an object. Example: {foo: 'bar'} → {bar: 'foo'}
+├─ is-absolute@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-absolute
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.. Copyright (c) 2009-2014, TJ Holowaychuk
+│  ├─ name: is-absolute
+│  ├─ version: 1.0.0
+│  └─ description: Returns true if a file path is absolute. Does not rely on the path module and can be used as a polyfill for node.js native `path.isAbolute`.
+├─ is-accessor-descriptor@0.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-accessor-descriptor
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, Jon Schlinkert.
+│  ├─ name: is-accessor-descriptor
+│  ├─ version: 0.1.6
+│  └─ description: Returns true if a value has the characteristics of a valid JavaScript accessor descriptor.
+├─ is-accessor-descriptor@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-accessor-descriptor
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: is-accessor-descriptor
+│  ├─ version: 1.0.0
+│  └─ description: Returns true if a value has the characteristics of a valid JavaScript accessor descriptor.
+├─ is-arrayish@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/qix-/node-is-arrayish
+│  ├─ publisher: Qix
+│  ├─ copyright: Copyright (c) 2015 JD Ballard
+│  ├─ name: is-arrayish
+│  ├─ version: 0.2.1
+│  └─ description: Determines if an object can be used as an array
+├─ is-binary-path@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-binary-path
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: is-binary-path
+│  ├─ version: 1.0.1
+│  └─ description: Check if a filepath is a binary file
+├─ is-buffer@1.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/is-buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ copyright: Copyright (c) Feross Aboukhadijeh
+│  ├─ name: is-buffer
+│  ├─ version: 1.1.6
+│  └─ description: Determine if an object is a Buffer
+├─ is-core-module@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-core-module
+│  ├─ publisher: Jordan Harband
+│  ├─ copyright: Copyright (c) 2014 Dave Justice
+│  ├─ name: is-core-module
+│  ├─ version: 2.2.0
+│  └─ description: Is this specifier a node.js core module?
+├─ is-data-descriptor@0.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-data-descriptor
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, Jon Schlinkert.
+│  ├─ name: is-data-descriptor
+│  ├─ version: 0.1.4
+│  └─ description: Returns true if a value has the characteristics of a valid JavaScript data descriptor.
+├─ is-data-descriptor@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-data-descriptor
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: is-data-descriptor
+│  ├─ version: 1.0.0
+│  └─ description: Returns true if a value has the characteristics of a valid JavaScript data descriptor.
+├─ is-descriptor@0.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-descriptor
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: is-descriptor
+│  ├─ version: 0.1.6
+│  └─ description: Returns true if a value has the characteristics of a valid JavaScript descriptor. Works for data descriptors and accessor descriptors.
+├─ is-descriptor@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-descriptor
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: is-descriptor
+│  ├─ version: 1.0.2
+│  └─ description: Returns true if a value has the characteristics of a valid JavaScript descriptor. Works for data descriptors and accessor descriptors.
+├─ is-extendable@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-extendable
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, Jon Schlinkert.
+│  ├─ name: is-extendable
+│  ├─ version: 0.1.1
+│  └─ description: Returns true if a value is any of the object types: array, regexp, plain object, function or date. This is useful for determining if a value can be extended, e.g. "can the value have keys?"
+├─ is-extendable@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-extendable
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: is-extendable
+│  ├─ version: 1.0.1
+│  └─ description: Returns true if a value is a plain object, array or function.
+├─ is-extglob@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-extglob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert
+│  ├─ name: is-extglob
+│  ├─ version: 2.1.1
+│  └─ description: Returns true if a string has an extglob.
+├─ is-finite@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-finite
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: is-finite
+│  ├─ version: 1.1.0
+│  └─ description: ES2015 Number.isFinite() ponyfill
+├─ is-fullwidth-code-point@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-fullwidth-code-point
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: is-fullwidth-code-point
+│  ├─ version: 1.0.0
+│  └─ description: Check if the character represented by a given Unicode code point is fullwidth
+├─ is-glob@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-glob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert.
+│  ├─ name: is-glob
+│  ├─ version: 3.1.0
+│  └─ description: Returns `true` if the given string looks like a glob pattern or an extglob pattern. This makes it easy to create code that only uses external modules like node-glob when necessary, resulting in much faster code execution and initialization time, and a better user experience.
+├─ is-glob@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/is-glob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: is-glob
+│  ├─ version: 4.0.3
+│  └─ description: Returns `true` if the given string looks like a glob pattern or an extglob pattern. This makes it easy to create code that only uses external modules like node-glob when necessary, resulting in much faster code execution and initialization time, and a better user experience.
+├─ is-negated-glob@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-negated-glob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2016 Jon Schlinkert
+│  ├─ name: is-negated-glob
+│  ├─ version: 1.0.0
+│  └─ description: Returns an object with a `negated` boolean and the `!` stripped from negation patterns. Also respects extglobs.
+├─ is-number@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-number
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert
+│  ├─ name: is-number
+│  ├─ version: 3.0.0
+│  └─ description: Returns true if the value is a number. comprehensive tests.
+├─ is-number@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-number
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: is-number
+│  ├─ version: 4.0.0
+│  └─ description: Returns true if the value is a number. comprehensive tests.
+├─ is-path-cwd@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-path-cwd
+│  ├─ publisher: Sindre Sorhus
+│  ├─ name: is-path-cwd
+│  ├─ version: 1.0.0
+│  └─ description: Check if a path is CWD
+├─ is-path-in-cwd@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-path-in-cwd
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: is-path-in-cwd
+│  ├─ version: 1.0.1
+│  └─ description: Check if a path is in the current working directory
+├─ is-path-inside@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-path-inside
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: is-path-inside
+│  ├─ version: 1.0.1
+│  └─ description: Check if a path is inside another path
+├─ is-plain-object@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-plain-object
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: is-plain-object
+│  ├─ version: 2.0.4
+│  └─ description: Returns true if an object was created by the `Object` constructor.
+├─ is-plain-object@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-plain-object
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: is-plain-object
+│  ├─ version: 5.0.0
+│  └─ description: Returns true if an object was created by the `Object` constructor, or Object.create(null).
+├─ is-relative@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-relative
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: is-relative
+│  ├─ version: 1.0.0
+│  └─ description: Returns `true` if the path appears to be relative.
+├─ is-unc-path@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-unc-path
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: is-unc-path
+│  ├─ version: 1.0.0
+│  └─ description: Returns true if a filepath is a windows UNC file path.
+├─ is-utf8@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/wayfind/is-utf8
+│  ├─ publisher: wayfind
+│  ├─ copyright: Copyright (C) 2014 Wei Fanzhe
+│  ├─ name: is-utf8
+│  ├─ version: 0.2.1
+│  └─ description: Detect if a buffer is utf8 encoded.
+├─ is-valid-glob@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-valid-glob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert
+│  ├─ name: is-valid-glob
+│  ├─ version: 1.0.0
+│  └─ description: Return true if a value is a valid glob pattern or patterns.
+├─ is-windows@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/is-windows
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2018, Jon Schlinkert.
+│  ├─ name: is-windows
+│  ├─ version: 1.0.2
+│  └─ description: Returns true if the platform is windows. UMD module, works with node.js, commonjs, browser, AMD, electron, etc.
+├─ isarray@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/isarray
+│  ├─ publisher: Julian Gruber
+│  ├─ copyright: Copyright (c) 2013 Julian Gruber &lt;julian@juliangruber.com&gt;
+│  ├─ name: isarray
+│  ├─ version: 0.0.1
+│  └─ description: Array#isArray for older browsers
+├─ isarray@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/isarray
+│  ├─ publisher: Julian Gruber
+│  ├─ copyright: Copyright (c) 2013 Julian Gruber &lt;julian@juliangruber.com&gt;
+│  ├─ name: isarray
+│  ├─ version: 1.0.0
+│  └─ description: Array#isArray for older browsers
+├─ isexe@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/isexe
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: isexe
+│  ├─ version: 2.0.0
+│  └─ description: Minimal module to check if a file is executable.
+├─ isobject@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/isobject
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert.
+│  ├─ name: isobject
+│  ├─ version: 2.1.0
+│  └─ description: Returns true if the value is an object and not an array or null.
+├─ isobject@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/isobject
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: isobject
+│  ├─ version: 3.0.1
+│  └─ description: Returns true if the value is an object and not an array or null.
+├─ jasmine-core@3.99.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jasmine/jasmine
+│  ├─ copyright: Copyright (c) 2008-2018 Pivotal Labs. This software is licensed under the MIT License.
+│  ├─ name: jasmine-core
+│  ├─ version: 3.99.1
+│  ├─ description: Simple JavaScript testing framework for browsers and node.js
+│  └─ publisher: 
+├─ jasmine-terminal-reporter@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jbblanchet/jasmine-terminal-reporter
+│  ├─ copyright: Copyright (c) 2015 Jean-Baptiste Blanchet
+│  ├─ name: jasmine-terminal-reporter
+│  ├─ version: 1.0.3
+│  ├─ description: A simple terminal reporter for Jasmine
+│  └─ publisher: 
+├─ jasmine@3.99.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jasmine/jasmine-npm
+│  ├─ copyright: Copyright (c) 2008-2017 Pivotal Labs. This software is licensed under the MIT License.
+│  ├─ name: jasmine
+│  ├─ version: 3.99.0
+│  ├─ description: CLI for Jasmine, a simple JavaScript testing framework for browsers and Node
+│  └─ publisher: 
+├─ json-stable-stringify-without-jsonify@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/samn/json-stable-stringify
+│  ├─ publisher: James Halliday
+│  ├─ name: json-stable-stringify-without-jsonify
+│  ├─ version: 1.0.1
+│  └─ description: deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results, with no public domain dependencies
+├─ json-stable-stringify@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/json-stable-stringify
+│  ├─ publisher: James Halliday
+│  ├─ name: json-stable-stringify
+│  ├─ version: 0.0.1
+│  └─ description: deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results
+├─ jsonify@0.0.0
+│  ├─ licenses: Public Domain
+│  ├─ repository: https://github.com/substack/jsonify
+│  ├─ publisher: Douglas Crockford
+│  ├─ name: jsonify
+│  ├─ version: 0.0.0
+│  └─ description: JSON without touching any globals
+├─ jsonparse@1.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/creationix/jsonparse
+│  ├─ publisher: Tim Caswell
+│  ├─ copyright: Copyright (c) 2012 Tim Caswell
+│  ├─ name: jsonparse
+│  ├─ version: 1.3.1
+│  └─ description: This is a pure-js JSON streaming parser for node.js
+├─ just-debounce@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hayes/just-debounce
+│  ├─ publisher: Michael Hayes
+│  ├─ copyright: Copyright (c) 2014 Michael Hayes
+│  ├─ name: just-debounce
+│  ├─ version: 1.1.0
+│  └─ description: a simple debounce with no dependencies or crazy defaults
+├─ kind-of@3.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/kind-of
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert
+│  ├─ name: kind-of
+│  ├─ version: 3.2.2
+│  └─ description: Get the native type of a value.
+├─ kind-of@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/kind-of
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert
+│  ├─ name: kind-of
+│  ├─ version: 4.0.0
+│  └─ description: Get the native type of a value.
+├─ kind-of@5.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/kind-of
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: kind-of
+│  ├─ version: 5.1.0
+│  └─ description: Get the native type of a value.
+├─ kind-of@6.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/kind-of
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert.
+│  ├─ name: kind-of
+│  ├─ version: 6.0.3
+│  └─ description: Get the native type of a value.
+├─ labeled-stream-splicer@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/labeled-stream-splicer
+│  ├─ publisher: James Halliday
+│  ├─ copyright: Copyright (c) James Halliday and browserify contributors
+│  ├─ name: labeled-stream-splicer
+│  ├─ version: 2.0.2
+│  └─ description: stream splicer with labels
+├─ last-run@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/last-run
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2015 Blaine Bublitz, Eric Schoffstall and other contributors
+│  ├─ name: last-run
+│  ├─ version: 1.1.1
+│  └─ description: Capture and retrieve the last time a function was run
+├─ lazystream@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jpommerening/node-lazystream
+│  ├─ publisher: Jonas Pommerening
+│  ├─ copyright: Copyright (c) 2013 J. Pommerening, contributors.
+│  ├─ name: lazystream
+│  ├─ version: 1.0.1
+│  └─ description: Open Node Streams on demand.
+├─ lcid@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/lcid
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: lcid
+│  ├─ version: 1.0.0
+│  └─ description: Mapping between standard locale identifiers and Windows locale identifiers (LCID)
+├─ lead@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/lead
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: lead
+│  ├─ version: 1.0.0
+│  └─ description: Sink your streams.
+├─ liftoff@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/js-cli/js-liftoff
+│  ├─ publisher: Tyler Kellen
+│  ├─ copyright: Copyright (c) 2014 Tyler Kellen
+│  ├─ name: liftoff
+│  ├─ version: 3.1.0
+│  └─ description: Launch your command line tool with ease.
+├─ load-json-file@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/load-json-file
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: load-json-file
+│  ├─ version: 1.1.0
+│  └─ description: Read and parse a JSON file
+├─ lodash._basecopy@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash._basecopy
+│  ├─ version: 3.0.1
+│  └─ description: The modern build of lodash’s internal `baseCopy` as a module.
+├─ lodash._basetostring@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash._basetostring
+│  ├─ version: 3.0.1
+│  └─ description: The modern build of lodash’s internal `baseToString` as a module.
+├─ lodash._basevalues@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js 1.7.0, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash._basevalues
+│  ├─ version: 3.0.0
+│  └─ description: The modern build of lodash’s internal `baseValues` as a module.
+├─ lodash._getnative@3.9.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash._getnative
+│  ├─ version: 3.9.1
+│  └─ description: The modern build of lodash’s internal `getNative` as a module.
+├─ lodash._isiterateecall@3.0.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash._isiterateecall
+│  ├─ version: 3.0.9
+│  └─ description: The modern build of lodash’s internal `isIterateeCall` as a module.
+├─ lodash._reescape@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js 1.7.0, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash._reescape
+│  ├─ version: 3.0.0
+│  └─ description: The modern build of lodash’s internal `reEscape` as a module.
+├─ lodash._reevaluate@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js 1.7.0, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash._reevaluate
+│  ├─ version: 3.0.0
+│  └─ description: The modern build of lodash’s internal `reEvaluate` as a module.
+├─ lodash._reinterpolate@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js 1.7.0, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash._reinterpolate
+│  ├─ version: 3.0.0
+│  └─ description: The modern build of lodash’s internal `reInterpolate` as a module.
+├─ lodash._root@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2016 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash._root
+│  ├─ version: 3.0.1
+│  └─ description: The internal lodash function `root` exported as a module.
+├─ lodash.assign@4.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright jQuery Foundation and other contributors <https://jquery.org/>
+│  ├─ name: lodash.assign
+│  ├─ version: 4.2.0
+│  └─ description: The lodash method `_.assign` exported as a module.
+├─ lodash.clonedeep@4.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright jQuery Foundation and other contributors <https://jquery.org/>
+│  ├─ name: lodash.clonedeep
+│  ├─ version: 4.5.0
+│  └─ description: The lodash method `_.cloneDeep` exported as a module.
+├─ lodash.escape@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2016 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash.escape
+│  ├─ version: 3.2.0
+│  └─ description: The lodash method `_.escape` exported as a module.
+├─ lodash.isarguments@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright jQuery Foundation and other contributors <https://jquery.org/>
+│  ├─ name: lodash.isarguments
+│  ├─ version: 3.1.0
+│  └─ description: The lodash method `_.isArguments` exported as a module.
+├─ lodash.isarray@3.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash.isarray
+│  ├─ version: 3.0.4
+│  └─ description: The modern build of lodash’s `_.isArray` as a module.
+├─ lodash.isobject@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash.isobject
+│  ├─ version: 3.0.2
+│  └─ description: The modern build of lodash’s `_.isObject` as a module.
+├─ lodash.keys@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash.keys
+│  ├─ version: 3.1.2
+│  └─ description: The modern build of lodash’s `_.keys` as a module.
+├─ lodash.memoize@3.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash.memoize
+│  ├─ version: 3.0.4
+│  └─ description: The modern build of lodash’s `_.memoize` as a module.
+├─ lodash.merge@4.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+│  ├─ name: lodash.merge
+│  ├─ version: 4.6.2
+│  └─ description: The Lodash method `_.merge` exported as a module.
+├─ lodash.restparam@3.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash.restparam
+│  ├─ version: 3.6.1
+│  └─ description: The modern build of lodash’s `_.restParam` as a module.
+├─ lodash.template@3.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2015 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2015 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash.template
+│  ├─ version: 3.6.2
+│  └─ description: The modern build of lodash’s `_.template` as a module.
+├─ lodash.templatesettings@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ copyright: Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>. Based on Underscore.js, copyright 2009-2016 Jeremy Ashkenas,. DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+│  ├─ name: lodash.templatesettings
+│  ├─ version: 3.1.1
+│  └─ description: The lodash method `_.templateSettings` exported as a module.
+├─ make-iterator@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/make-iterator
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2018, Jon Schlinkert.
+│  ├─ name: make-iterator
+│  ├─ version: 1.0.1
+│  └─ description: Convert an argument into a valid iterator. Based on the `.makeIterator()` implementation in mout https://github.com/mout/mout.
+├─ map-cache@0.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/map-cache
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2016, Jon Schlinkert.
+│  ├─ name: map-cache
+│  ├─ version: 0.2.2
+│  └─ description: Basic cache object for storing key-value pairs.
+├─ map-stream@0.1.0
+│  ├─ licenses: UNKNOWN
+│  ├─ repository: https://github.com/dominictarr/map-stream
+│  ├─ publisher: Dominic Tarr
+│  ├─ copyright: Copyright (c) 2011 Dominic Tarr
+│  ├─ name: map-stream
+│  ├─ version: 0.1.0
+│  └─ description: construct pipes of streams of events
+├─ map-visit@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/map-visit
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert
+│  ├─ name: map-visit
+│  ├─ version: 1.0.0
+│  └─ description: Map `visit` over an array of objects.
+├─ matchdep@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tkellen/js-matchdep
+│  ├─ publisher: Tyler Kellen
+│  ├─ copyright: Copyright (c) 2013 Tyler Kellen
+│  ├─ name: matchdep
+│  ├─ version: 2.0.0
+│  └─ description: Use micromatch to filter npm module dependencies by name.
+├─ md5.js@1.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/md5.js
+│  ├─ publisher: Kirill Fomichev
+│  ├─ copyright: Copyright (c) 2016 Kirill Fomichev
+│  ├─ name: md5.js
+│  ├─ version: 1.3.5
+│  └─ description: node style md5 on pure JavaScript
+├─ micromatch@3.1.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/micromatch
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2018, Jon Schlinkert.
+│  ├─ name: micromatch
+│  ├─ version: 3.1.10
+│  └─ description: Glob matching for javascript/node.js. A drop-in replacement and faster alternative to minimatch and multimatch.
+├─ miller-rabin@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/miller-rabin
+│  ├─ publisher: Fedor Indutny
+│  ├─ copyright: Copyright Fedor Indutny, 2014.
+│  ├─ name: miller-rabin
+│  ├─ version: 4.0.1
+│  └─ description: Miller Rabin algorithm for primality test
+├─ minimalistic-assert@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/calvinmetcalf/minimalistic-assert
+│  ├─ copyright: Copyright 2015 Calvin Metcalf
+│  ├─ name: minimalistic-assert
+│  ├─ version: 1.0.1
+│  ├─ description: minimalistic-assert ===
+│  └─ publisher: 
+├─ minimalistic-crypto-utils@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/indutny/minimalistic-crypto-utils
+│  ├─ publisher: Fedor Indutny
+│  ├─ copyright: Copyright Fedor Indutny, 2017.
+│  ├─ name: minimalistic-crypto-utils
+│  ├─ version: 1.0.1
+│  └─ description: Minimalistic tools for JS crypto modules
+├─ minimatch@3.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: minimatch
+│  ├─ version: 3.0.4
+│  └─ description: a glob matcher in javascript
+├─ minimatch@3.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: minimatch
+│  ├─ version: 3.1.2
+│  └─ description: a glob matcher in javascript
+├─ minimist@0.0.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/minimist
+│  ├─ publisher: James Halliday
+│  ├─ name: minimist
+│  ├─ version: 0.0.10
+│  └─ description: parse argument options
+├─ minimist@1.2.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/minimist
+│  ├─ publisher: James Halliday
+│  ├─ name: minimist
+│  ├─ version: 1.2.5
+│  └─ description: parse argument options
+├─ mixin-deep@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/mixin-deep
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2015, 2017, Jon Schlinkert.
+│  ├─ name: mixin-deep
+│  ├─ version: 1.3.2
+│  └─ description: Deeply mix the properties of objects into the first object. Like merge-deep, but doesn't clone.
+├─ module-deps@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/module-deps
+│  ├─ publisher: James Halliday
+│  ├─ name: module-deps
+│  ├─ version: 4.1.1
+│  └─ description: walk the dependency graph to generate json output that can be fed into browser-pack
+├─ ms@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zeit/ms
+│  ├─ copyright: Copyright (c) 2016 Zeit, Inc.
+│  ├─ name: ms
+│  ├─ version: 2.0.0
+│  ├─ description: Tiny milisecond conversion utility
+│  └─ publisher: 
+├─ msgpack-lite@0.1.26
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kawanet/msgpack-lite
+│  ├─ publisher: @kawanet
+│  ├─ copyright: Copyright (c) 2015 Yusuke Kawasaki
+│  ├─ name: msgpack-lite
+│  ├─ version: 0.1.26
+│  └─ description: Fast Pure JavaScript MessagePack Encoder and Decoder
+├─ multipipe@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/multipipe
+│  ├─ copyright: Copyright (c) 2014 Segment.io Inc. &lt;friends@segment.io&gt;. Copyright (c) 2014 Julian Gruber &lt;julian@juliangruber.com&gt;
+│  ├─ name: multipipe
+│  ├─ version: 0.1.2
+│  ├─ description: pipe streams with centralized error handling
+│  └─ publisher: 
+├─ mute-stdout@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/mute-stdout
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2015, 2018 Blaine Bublitz <blaine.bublitz@gmail.com> and Eric Schoffstall <yo@contra.io>
+│  ├─ name: mute-stdout
+│  ├─ version: 1.0.1
+│  └─ description: Mute and unmute stdout.
+├─ nan@2.16.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/nan
+│  ├─ copyright: Copyright (c) 2018 [NAN contributors](<https://github.com/nodejs/nan#wg-members--collaborators>)
+│  ├─ name: nan
+│  ├─ version: 2.16.0
+│  ├─ description: Native Abstractions for Node.js: C++ header for Node 0.8 -> 14 compatibility
+│  └─ publisher: 
+├─ nanomatch@1.2.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/nanomatch
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2016-2018, Jon Schlinkert.
+│  ├─ name: nanomatch
+│  ├─ version: 1.2.13
+│  └─ description: Fast, minimal glob matcher for node.js. Similar to micromatch, minimatch and multimatch, but complete Bash 4.3 wildcard support only (no support for exglobs, posix brackets or braces)
+├─ next-tick@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/medikoo/next-tick
+│  ├─ publisher: Mariusz Nowak
+│  ├─ copyright: Copyright (c) 2012-2020, Mariusz Nowak, @medikoo, medikoo.com
+│  ├─ name: next-tick
+│  ├─ version: 1.1.0
+│  └─ description: Environment agnostic nextTick polyfill
+├─ normalize-package-data@2.5.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/npm/normalize-package-data
+│  ├─ publisher: Meryn Stol
+│  ├─ copyright: Copyright (c) Meryn Stol ("Author"). All rights reserved.
+│  ├─ name: normalize-package-data
+│  ├─ version: 2.5.0
+│  └─ description: Normalizes data that can be found in package.json files.
+├─ normalize-path@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/normalize-path
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert
+│  ├─ name: normalize-path
+│  ├─ version: 2.1.1
+│  └─ description: Normalize file path slashes to be unix-like forward slashes. Also condenses repeat slashes to a single slash and removes and trailing slashes unless disabled.
+├─ normalize-path@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/normalize-path
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2018, Jon Schlinkert.
+│  ├─ name: normalize-path
+│  ├─ version: 3.0.0
+│  └─ description: Normalize slashes in a file path to be posix/unix-like forward slashes. Also condenses repeat slashes to a single slash and removes and trailing slashes, unless disabled.
+├─ now-and-later@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/now-and-later
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014 Blaine Bublitz, Eric Schoffstall and other contributors
+│  ├─ name: now-and-later
+│  ├─ version: 2.0.1
+│  └─ description: Map over an array or object of values in parallel or series, passing each through the async iterator, with optional lifecycle hooks.
+├─ number-is-nan@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/number-is-nan
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: number-is-nan
+│  ├─ version: 1.0.1
+│  └─ description: ES2015 Number.isNaN() ponyfill
+├─ object-assign@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/object-assign
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: object-assign
+│  ├─ version: 3.0.0
+│  └─ description: ES6 Object.assign() ponyfill
+├─ object-assign@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/object-assign
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: object-assign
+│  ├─ version: 4.1.1
+│  └─ description: ES2015 `Object.assign()` ponyfill
+├─ object-copy@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/object-copy
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2016, Jon Schlinkert.
+│  ├─ name: object-copy
+│  ├─ version: 0.1.0
+│  └─ description: Copy static properties, prototype properties, and descriptors from one object to another.
+├─ object-keys@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/object-keys
+│  ├─ publisher: Jordan Harband
+│  ├─ copyright: Copyright (C) 2013 Jordan Harband
+│  ├─ name: object-keys
+│  ├─ version: 1.1.1
+│  └─ description: An Object.keys replacement, in case Object.keys is not available. From https://github.com/es-shims/es5-shim
+├─ object-visit@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/object-visit
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, 2017, Jon Schlinkert
+│  ├─ name: object-visit
+│  ├─ version: 1.0.1
+│  └─ description: Call a specified method on each value in the given object.
+├─ object.assign@4.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/object.assign
+│  ├─ publisher: Jordan Harband
+│  ├─ copyright: Copyright (c) 2014 Jordan Harband
+│  ├─ name: object.assign
+│  ├─ version: 4.1.4
+│  └─ description: ES6 spec-compliant Object.assign shim. From https://github.com/es-shims/es6-shim
+├─ object.defaults@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/object.defaults
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2015, 2017, Jon Schlinkert
+│  ├─ name: object.defaults
+│  ├─ version: 1.1.0
+│  └─ description: Like `extend` but only copies missing properties/values to the target object.
+├─ object.map@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/object.map
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert, contributors.
+│  ├─ name: object.map
+│  ├─ version: 1.0.1
+│  └─ description: Similar to map for arrays, this creates a new object by calling the callback on each property of the original object.
+├─ object.pick@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/object.pick
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert.
+│  ├─ name: object.pick
+│  ├─ version: 1.3.0
+│  └─ description: Returns a filtered copy of an object with only the specified keys, similar to `_.pick` from lodash / underscore.
+├─ object.reduce@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/object.reduce
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2015, 2017, Jon Schlinkert
+│  ├─ name: object.reduce
+│  ├─ version: 1.0.1
+│  └─ description: Reduces an object to a value that is the accumulated result of running each property in the object through a callback.
+├─ once@1.4.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/once
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: once
+│  ├─ version: 1.4.0
+│  └─ description: Run a function exactly one time
+├─ optimist@0.6.1
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/substack/node-optimist
+│  ├─ publisher: James Halliday
+│  ├─ copyright: Copyright 2010 James Halliday (mail@substack.net)
+│  ├─ name: optimist
+│  ├─ version: 0.6.1
+│  └─ description: Light-weight option parsing with an argv hash. No optstrings attached.
+├─ ordered-read-streams@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/armed/ordered-read-streams
+│  ├─ publisher: Artem Medeusheyev
+│  ├─ copyright: Copyright (c) 2014 Artem Medeusheyev
+│  ├─ name: ordered-read-streams
+│  ├─ version: 1.0.1
+│  └─ description: Combines array of streams into one read stream in strict order
+├─ os-browserify@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/drewyoung1/os-browserify
+│  ├─ publisher: Drew Young
+│  ├─ copyright: Copyright (c) 2014 Drew Young
+│  ├─ name: os-browserify
+│  ├─ version: 0.1.2
+│  └─ description: os-browserify =============
+├─ os-locale@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/os-locale
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: os-locale
+│  ├─ version: 1.4.0
+│  └─ description: Get the system locale
+├─ p-finally@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/p-finally
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: p-finally
+│  ├─ version: 1.0.0
+│  └─ description: `Promise#finally()` ponyfill - Invoked when the promise is settled regardless of outcome
+├─ p-queue-es5@6.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/p-queue
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: p-queue-es5
+│  ├─ version: 6.0.2
+│  ├─ description: Promise queue with concurrency control
+│  └─ publisher: 
+├─ p-timeout@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/p-timeout
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: p-timeout
+│  ├─ version: 3.2.0
+│  └─ description: Timeout a promise after a specified amount of time
+├─ pako@0.2.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodeca/pako
+│  ├─ copyright: Copyright (C) 2014-2016 by Vitaly Puzrin
+│  ├─ name: pako
+│  ├─ version: 0.2.9
+│  ├─ description: zlib port to javascript - fast, modularized, with browser support
+│  └─ publisher: 
+├─ parents@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-parents
+│  ├─ publisher: James Halliday
+│  ├─ name: parents
+│  ├─ version: 1.0.1
+│  └─ description: return all the parent directories for a directory
+├─ parse-asn1@5.1.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/crypto-browserify/parse-asn1
+│  ├─ copyright: Copyright (c) 2017, crypto-browserify contributors
+│  ├─ name: parse-asn1
+│  ├─ version: 5.1.6
+│  ├─ description: utility library for parsing asn1 files for use with browserify-sign.
+│  └─ publisher: 
+├─ parse-filepath@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/parse-filepath
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2015, Jon Schlinkert.
+│  ├─ name: parse-filepath
+│  ├─ version: 1.0.2
+│  └─ description: Pollyfill for node.js `path.parse`, parses a filepath into an object.
+├─ parse-json@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/parse-json
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: parse-json
+│  ├─ version: 2.2.0
+│  └─ description: Parse JSON with more helpful errors
+├─ parse-node-version@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/parse-node-version
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2018 Blaine Bublitz <blaine.bublitz@gmail.com> and Eric Schoffstall <yo@contra.io>
+│  ├─ name: parse-node-version
+│  ├─ version: 1.0.1
+│  └─ description: Turn node's process.version into something useful.
+├─ parse-passwd@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/doowb/parse-passwd
+│  ├─ publisher: Brian Woodward
+│  ├─ copyright: Copyright (c) 2016 Brian Woodward
+│  ├─ name: parse-passwd
+│  ├─ version: 1.0.0
+│  └─ description: Parse a passwd file into a list of users.
+├─ pascalcase@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/pascalcase
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, Jon Schlinkert.
+│  ├─ name: pascalcase
+│  ├─ version: 0.1.1
+│  └─ description: Convert a string to pascal-case.
+├─ path-browserify@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/path-browserify
+│  ├─ publisher: James Halliday
+│  ├─ name: path-browserify
+│  ├─ version: 0.0.1
+│  └─ description: the path module from node core for browsers
+├─ path-dirname@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/es128/path-dirname
+│  ├─ publisher: Elan Shanker
+│  ├─ copyright: Copyright (c) Elan Shanker and Node.js contributors. All rights reserved.
+│  ├─ name: path-dirname
+│  ├─ version: 1.0.2
+│  └─ description: Node.js path.dirname() ponyfill
+├─ path-exists@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-exists
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: path-exists
+│  ├─ version: 2.1.0
+│  └─ description: Check if a path exists
+├─ path-is-absolute@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-is-absolute
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: path-is-absolute
+│  ├─ version: 1.0.1
+│  └─ description: Node.js 0.12 path.isAbsolute() ponyfill
+├─ path-is-inside@1.0.2
+│  ├─ licenses: (WTFPL OR MIT)
+│  ├─ repository: https://github.com/domenic/path-is-inside
+│  ├─ publisher: Domenic Denicola
+│  ├─ copyright: Copyright © 2013–2016 Domenic Denicola <d@domenic.me>
+│  ├─ name: path-is-inside
+│  ├─ version: 1.0.2
+│  └─ description: Tests whether one path is inside another path
+├─ path-parse@1.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jbgutierrez/path-parse
+│  ├─ publisher: Javier Blanco
+│  ├─ copyright: Copyright (c) 2015 Javier Blanco
+│  ├─ name: path-parse
+│  ├─ version: 1.0.6
+│  └─ description: Node.js path.parse() ponyfill
+├─ path-platform@0.11.15
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tjfontaine/node-path-platform
+│  ├─ publisher: Timothy J Fontaine
+│  ├─ name: path-platform
+│  ├─ version: 0.11.15
+│  └─ description: Provide access to win32 and posix path operations; sourced directly from upstream Node.js
+├─ path-root-regex@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/regexhq/path-root-regex
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2016, Jon Schlinkert.
+│  ├─ name: path-root-regex
+│  ├─ version: 0.1.2
+│  └─ description: Regular expression for getting the root of a posix or windows filepath.
+├─ path-root@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/path-root
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2016, Jon Schlinkert.
+│  ├─ name: path-root
+│  ├─ version: 0.1.1
+│  └─ description: Get the root of a posix or windows filepath.
+├─ path-type@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-type
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: path-type
+│  ├─ version: 1.1.0
+│  └─ description: Check if a path is a file, directory, or symlink
+├─ pbkdf2@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/pbkdf2
+│  ├─ publisher: Daniel Cousens
+│  ├─ copyright: Copyright (c) 2014 Daniel Cousens
+│  ├─ name: pbkdf2
+│  ├─ version: 3.1.1
+│  └─ description: This library provides the functionality of PBKDF2 with the ability to use any supported hashing algorithm returned from crypto.getHashes()
+├─ pify@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/pify
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: pify
+│  ├─ version: 2.3.0
+│  └─ description: Promisify a callback-style function
+├─ pinkie-promise@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/pinkie-promise
+│  ├─ publisher: Vsevolod Strukchinsky
+│  ├─ copyright: Copyright (c) Vsevolod Strukchinsky <floatdrop@gmail.com> (github.com/floatdrop)
+│  ├─ name: pinkie-promise
+│  ├─ version: 2.0.1
+│  └─ description: ES2015 Promise ponyfill
+├─ pinkie@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/floatdrop/pinkie
+│  ├─ publisher: Vsevolod Strukchinsky
+│  ├─ copyright: Copyright (c) Vsevolod Strukchinsky <floatdrop@gmail.com> (github.com/floatdrop)
+│  ├─ name: pinkie
+│  ├─ version: 2.0.4
+│  └─ description: Itty bitty little widdle twinkie pinkie ES2015 Promise implementation
+├─ plugin-error@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/plugin-error
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2015 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: plugin-error
+│  ├─ version: 1.0.1
+│  └─ description: Error handling for Vinyl plugins.
+├─ pluralize@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/blakeembrey/pluralize
+│  ├─ publisher: Blake Embrey
+│  ├─ copyright: Copyright (c) 2013 Blake Embrey (hello@blakeembrey.com)
+│  ├─ name: pluralize
+│  ├─ version: 1.2.1
+│  └─ description: Pluralize and singularize any word
+├─ posix-character-classes@0.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/posix-character-classes
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2016-2017, Jon Schlinkert
+│  ├─ name: posix-character-classes
+│  ├─ version: 0.1.1
+│  └─ description: POSIX character classes for creating regular expressions.
+├─ pretty-hrtime@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/robrich/pretty-hrtime
+│  ├─ publisher: Rob Richardson
+│  ├─ copyright: Copyright (c) 2013 [Richardson & Sons, LLC](http://richardsonandsons.com/)
+│  ├─ name: pretty-hrtime
+│  ├─ version: 1.0.3
+│  └─ description: process.hrtime() to words
+├─ process-nextick-args@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/process-nextick-args
+│  ├─ name: process-nextick-args
+│  ├─ version: 1.0.7
+│  ├─ description: process.nextTick but always with args
+│  └─ publisher: 
+├─ process-nextick-args@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/process-nextick-args
+│  ├─ name: process-nextick-args
+│  ├─ version: 2.0.1
+│  ├─ description: process.nextTick but always with args
+│  └─ publisher: 
+├─ process@0.11.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/shtylman/node-process
+│  ├─ publisher: Roman Shtylman
+│  ├─ copyright: Copyright (c) 2013 Roman Shtylman <shtylman@gmail.com>
+│  ├─ name: process
+│  ├─ version: 0.11.10
+│  └─ description: process information for node.js and browsers
+├─ public-encrypt@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/publicEncrypt
+│  ├─ publisher: Calvin Metcalf
+│  ├─ copyright: Copyright (c) 2017 Calvin Metcalf
+│  ├─ name: public-encrypt
+│  ├─ version: 4.0.3
+│  └─ description: browserify version of publicEncrypt & privateDecrypt
+├─ pump@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/pump
+│  ├─ publisher: Mathias Buus Madsen
+│  ├─ copyright: Copyright (c) 2014 Mathias Buus
+│  ├─ name: pump
+│  ├─ version: 2.0.1
+│  └─ description: pipe streams together and close all of them if one of them closes
+├─ pumpify@1.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/pumpify
+│  ├─ publisher: Mathias Buus
+│  ├─ copyright: Copyright (c) 2014 Mathias Buus
+│  ├─ name: pumpify
+│  ├─ version: 1.5.1
+│  └─ description: Combine an array of streams into a single duplex stream using pump and duplexify
+├─ punycode@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bestiejs/punycode.js
+│  ├─ publisher: Mathias Bynens
+│  ├─ copyright: Copyright Mathias Bynens <https://mathiasbynens.be/>
+│  ├─ name: punycode
+│  ├─ version: 1.3.2
+│  └─ description: A robust Punycode converter that fully complies to RFC 3492 and RFC 5891, and works on nearly all JavaScript platforms.
+├─ punycode@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bestiejs/punycode.js
+│  ├─ publisher: Mathias Bynens
+│  ├─ copyright: Copyright Mathias Bynens <https://mathiasbynens.be/>
+│  ├─ name: punycode
+│  ├─ version: 1.4.1
+│  └─ description: A robust Punycode converter that fully complies to RFC 3492 and RFC 5891, and works on nearly all JavaScript platforms.
+├─ querystring-es3@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mike-spainhower/querystring
+│  ├─ publisher: Irakli Gozalishvili
+│  ├─ name: querystring-es3
+│  ├─ version: 0.2.1
+│  └─ description: Node's querystring module for all engines. (ES3 compat fork)
+├─ querystring@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Gozala/querystring
+│  ├─ publisher: Irakli Gozalishvili
+│  ├─ name: querystring
+│  ├─ version: 0.2.0
+│  └─ description: Node's querystring module for all engines.
+├─ randombytes@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/randombytes
+│  ├─ copyright: Copyright (c) 2017 crypto-browserify
+│  ├─ name: randombytes
+│  ├─ version: 2.1.0
+│  ├─ description: random bytes from browserify stand alone
+│  └─ publisher: 
+├─ randomfill@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/randomfill
+│  ├─ copyright: Copyright (c) 2017 crypto-browserify
+│  ├─ name: randomfill
+│  ├─ version: 1.0.4
+│  ├─ description: random fill from browserify stand alone
+│  └─ publisher: 
+├─ rcfinder@0.1.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/spenceralger/rcfinder
+│  ├─ publisher: Spencer Alger
+│  ├─ name: rcfinder
+│  ├─ version: 0.1.9
+│  └─ description: Find a config file (like .jshintrc) by walking up from a specific directory.
+├─ rcloader@0.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/spenceralger/rcloader
+│  ├─ publisher: Spencer Alger
+│  ├─ name: rcloader
+│  ├─ version: 0.2.2
+│  └─ description: For build system plugins that need to fetch relative config files (like .jshintrc).
+├─ read-only-stream@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/read-only-stream
+│  ├─ publisher: James Halliday
+│  ├─ name: read-only-stream
+│  ├─ version: 2.0.0
+│  └─ description: wrap a readable/writable stream to be read-only
+├─ read-pkg-up@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/read-pkg-up
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: read-pkg-up
+│  ├─ version: 1.0.1
+│  └─ description: Read the closest package.json file
+├─ read-pkg@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/read-pkg
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: read-pkg
+│  ├─ version: 1.1.0
+│  └─ description: Read a package.json file
+├─ readable-stream@1.1.14
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/readable-stream
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright Joyent, Inc. and other Node contributors. All rights reserved.. Permission is hereby granted, free of charge, to any person obtaining a copy. of this software and associated documentation files (the "Software"), to. deal in the Software without restriction, including without limitation the. rights to use, copy, modify, merge, publish, distribute, sublicense, and/or. sell copies of the Software, and to permit persons to whom the Software is. furnished to do so, subject to the following conditions:
+│  ├─ name: readable-stream
+│  ├─ version: 1.1.14
+│  └─ description: Streams3, a user-land copy of the stream library from Node.js v0.11.x
+├─ readable-stream@2.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  ├─ copyright: Copyright Joyent, Inc. and other Node contributors. All rights reserved.. Permission is hereby granted, free of charge, to any person obtaining a copy. of this software and associated documentation files (the "Software"), to. deal in the Software without restriction, including without limitation the. rights to use, copy, modify, merge, publish, distribute, sublicense, and/or. sell copies of the Software, and to permit persons to whom the Software is. furnished to do so, subject to the following conditions:
+│  ├─ name: readable-stream
+│  ├─ version: 2.0.6
+│  ├─ description: Streams3, a user-land copy of the stream library from Node.js
+│  └─ publisher: 
+├─ readable-stream@2.3.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  ├─ name: readable-stream
+│  ├─ version: 2.3.7
+│  ├─ description: Streams3, a user-land copy of the stream library from Node.js
+│  └─ publisher: 
+├─ readable-stream@3.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  ├─ name: readable-stream
+│  ├─ version: 3.6.0
+│  ├─ description: Streams3, a user-land copy of the stream library from Node.js
+│  └─ publisher: 
+├─ readdirp@2.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/paulmillr/readdirp
+│  ├─ publisher: Thorsten Lorenz
+│  ├─ copyright: Copyright (c) 2012-2015 Thorsten Lorenz
+│  ├─ name: readdirp
+│  ├─ version: 2.2.1
+│  └─ description: Recursive version of fs.readdir with streaming api.
+├─ rechoir@0.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tkellen/node-rechoir
+│  ├─ publisher: Tyler Kellen
+│  ├─ copyright: Copyright (c) 2015 Tyler Kellen
+│  ├─ name: rechoir
+│  ├─ version: 0.6.2
+│  └─ description: Require any supported file as a node module.
+├─ regex-not@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/regex-not
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2016, 2018, Jon Schlinkert.
+│  ├─ name: regex-not
+│  ├─ version: 1.0.2
+│  └─ description: Create a javascript regular expression for matching everything except for the given string.
+├─ remove-bom-buffer@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/remove-bom-buffer
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: remove-bom-buffer
+│  ├─ version: 3.0.0
+│  └─ description: Remove a byte order mark (BOM) from a buffer.
+├─ remove-bom-stream@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/remove-bom-stream
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: remove-bom-stream
+│  ├─ version: 1.2.0
+│  └─ description: Remove a UTF8 BOM at the start of the stream.
+├─ remove-trailing-separator@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/darsain/remove-trailing-separator
+│  ├─ publisher: darsain
+│  ├─ name: remove-trailing-separator
+│  ├─ version: 1.1.0
+│  └─ description: Removes separators from the end of the string.
+├─ repeat-element@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/repeat-element
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-present, Jon Schlinkert.
+│  ├─ name: repeat-element
+│  ├─ version: 1.1.4
+│  └─ description: Create an array by repeating the given value n times.
+├─ repeat-string@1.6.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/repeat-string
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2016, Jon Schlinkert.
+│  ├─ name: repeat-string
+│  ├─ version: 1.6.1
+│  └─ description: Repeat the given string n times. Fastest implementation for repeating a string.
+├─ repeating@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/repeating
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: repeating
+│  ├─ version: 2.0.1
+│  └─ description: Repeat a string - fast
+├─ replace-ext@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/wearefractal/replace-ext
+│  ├─ publisher: Fractal
+│  ├─ copyright: Copyright (c) 2014 Fractal <contact@wearefractal.com>
+│  ├─ name: replace-ext
+│  ├─ version: 0.0.1
+│  └─ description: Replaces a file extension with another one
+├─ replace-ext@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/replace-ext
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: replace-ext
+│  ├─ version: 1.0.1
+│  └─ description: Replaces a file extension with another one
+├─ replace-homedir@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/replace-homedir
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: replace-homedir
+│  ├─ version: 1.0.0
+│  └─ description: Replace user home in a string with another string. Useful for tildifying a path.
+├─ require-directory@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/troygoode/node-require-directory
+│  ├─ publisher: Troy Goode
+│  ├─ copyright: Copyright (c) 2011 Troy Goode <troygoode@gmail.com>
+│  ├─ name: require-directory
+│  ├─ version: 2.1.1
+│  └─ description: Recursively iterates over specified directory, require()'ing each file, and returning a nested hash structure containing those modules.
+├─ require-main-filename@1.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/require-main-filename
+│  ├─ publisher: Ben Coe
+│  ├─ copyright: Copyright (c) 2016, Contributors
+│  ├─ name: require-main-filename
+│  ├─ version: 1.0.1
+│  └─ description: shim for require.main.filename() that works in as many environments as possible
+├─ resolve-dir@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/resolve-dir
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2016, Jon Schlinkert
+│  ├─ name: resolve-dir
+│  ├─ version: 1.0.1
+│  └─ description: Resolve a directory that is either local, global or in the user's home directory.
+├─ resolve-options@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/resolve-options
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: resolve-options
+│  ├─ version: 1.1.0
+│  └─ description: Resolve an options object based on configuration.
+├─ resolve-url@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lydell/resolve-url
+│  ├─ publisher: Simon Lydell
+│  ├─ copyright: Copyright (c) 2013 Simon Lydell
+│  ├─ name: resolve-url
+│  ├─ version: 0.2.1
+│  └─ description: Like Node.js’ `path.resolve`/`url.resolve` for the browser.
+├─ resolve@1.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-resolve
+│  ├─ publisher: James Halliday
+│  ├─ name: resolve
+│  ├─ version: 1.1.7
+│  └─ description: resolve like require.resolve() on behalf of files asynchronously and synchronously
+├─ resolve@1.19.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/resolve
+│  ├─ publisher: James Halliday
+│  ├─ copyright: Copyright (c) 2012 James Halliday
+│  ├─ name: resolve
+│  ├─ version: 1.19.0
+│  └─ description: resolve like require.resolve() on behalf of files asynchronously and synchronously
+├─ ret@0.1.15
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/fent/ret.js
+│  ├─ publisher: Roly Fentanes
+│  ├─ copyright: Copyright (C) 2011 by Roly Fentanes
+│  ├─ name: ret
+│  ├─ version: 0.1.15
+│  └─ description: Tokenizes a string that represents a regular expression.
+├─ rimraf@2.7.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/rimraf
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: rimraf
+│  ├─ version: 2.7.1
+│  └─ description: A deep deletion module for node (like `rm -rf`)
+├─ ripemd160@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crypto-browserify/ripemd160
+│  ├─ copyright: Copyright (c) 2016 crypto-browserify
+│  ├─ name: ripemd160
+│  ├─ version: 2.0.2
+│  ├─ description: Compute ripemd160 of bytes or strings.
+│  └─ publisher: 
+├─ safe-buffer@5.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ copyright: Copyright (c) Feross Aboukhadijeh
+│  ├─ name: safe-buffer
+│  ├─ version: 5.1.2
+│  └─ description: Safer Node.js Buffer API
+├─ safe-buffer@5.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ copyright: Copyright (c) Feross Aboukhadijeh
+│  ├─ name: safe-buffer
+│  ├─ version: 5.2.1
+│  └─ description: Safer Node.js Buffer API
+├─ safe-regex@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/safe-regex
+│  ├─ publisher: James Halliday
+│  ├─ name: safe-regex
+│  ├─ version: 1.1.0
+│  └─ description: detect possibly catastrophic, exponential-time regular expressions
+├─ safer-buffer@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ChALkeR/safer-buffer
+│  ├─ publisher: Nikita Skovoroda
+│  ├─ copyright: Copyright (c) 2018 Nikita Skovoroda <chalkerx@gmail.com>
+│  ├─ name: safer-buffer
+│  ├─ version: 2.1.2
+│  └─ description: Modern Buffer API polyfill without footguns
+├─ semver-greatest-satisfied-range@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/semver-greatest-satisfied-range
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2015, 2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: semver-greatest-satisfied-range
+│  ├─ version: 1.1.0
+│  └─ description: Find the greatest satisfied semver range from an array of ranges.
+├─ semver@5.7.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: semver
+│  ├─ version: 5.7.1
+│  ├─ description: The semantic version parser used by npm.
+│  └─ publisher: 
+├─ set-blocking@2.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/set-blocking
+│  ├─ publisher: Ben Coe
+│  ├─ copyright: Copyright (c) 2016, Contributors
+│  ├─ name: set-blocking
+│  ├─ version: 2.0.0
+│  └─ description: set blocking stdio and stderr ensuring that terminal output does not truncate
+├─ set-value@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/set-value
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2014-2017, Jon Schlinkert
+│  ├─ name: set-value
+│  ├─ version: 2.0.1
+│  └─ description: Create nested values and any intermediaries using dot notation (`'a.b.c'`) paths.
+├─ sha.js@2.4.11
+│  ├─ licenses: (MIT AND BSD-3-Clause)
+│  ├─ repository: https://github.com/crypto-browserify/sha.js
+│  ├─ publisher: Dominic Tarr
+│  ├─ copyright: Copyright (c) 2013-2018 sha.js contributors
+│  ├─ name: sha.js
+│  ├─ version: 2.4.11
+│  └─ description: Streamable SHA hashes in pure javascript
+├─ shasum-object@1.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/goto-bus-stop/shasum-object
+│  ├─ publisher: Renée Kooi
+│  ├─ copyright: Copyright 2019 Renée Kooi <renee@kooi.me>
+│  ├─ name: shasum-object
+│  ├─ version: 1.0.0
+│  └─ description: get the shasum of a buffer or object
+├─ shasum@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/shasum
+│  ├─ publisher: 'Dominic Tarr'
+│  ├─ copyright: Copyright (c) 2012 'Dominic Tarr'
+│  ├─ name: shasum
+│  ├─ version: 1.0.2
+│  └─ description: Single function that return the sha1sum. Installing this is just a little bit quicker than reading the crypto documentation.
+├─ shell-quote@1.7.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-shell-quote
+│  ├─ publisher: James Halliday
+│  ├─ copyright: Copyright (c) 2013 James Halliday (mail@substack.net)
+│  ├─ name: shell-quote
+│  ├─ version: 1.7.2
+│  └─ description: quote and parse shell commands
+├─ simple-concat@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/simple-concat
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ copyright: Copyright (c) Feross Aboukhadijeh
+│  ├─ name: simple-concat
+│  ├─ version: 1.0.1
+│  └─ description: Super-minimalist version of `concat-stream`. Less than 15 lines!
+├─ snapdragon-node@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/snapdragon-node
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2017, Jon Schlinkert
+│  ├─ name: snapdragon-node
+│  ├─ version: 2.1.1
+│  └─ description: Snapdragon utility for creating a new AST node in custom code, such as plugins.
+├─ snapdragon-util@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/snapdragon-util
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2017, Jon Schlinkert
+│  ├─ name: snapdragon-util
+│  ├─ version: 3.0.1
+│  └─ description: Utilities for the snapdragon parser/compiler.
+├─ snapdragon@0.8.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/snapdragon
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2016, Jon Schlinkert.
+│  ├─ name: snapdragon
+│  ├─ version: 0.8.2
+│  └─ description: Fast, pluggable and easy-to-use parser-renderer factory.
+├─ source-map-resolve@0.5.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lydell/source-map-resolve
+│  ├─ publisher: Simon Lydell
+│  ├─ copyright: Copyright (c) 2014, 2015, 2016, 2017, 2018, 2019 Simon Lydell. Copyright (c) 2019 ZHAO Jinxiang
+│  ├─ name: source-map-resolve
+│  ├─ version: 0.5.3
+│  └─ description: Resolve the source map and/or sources for a generated file.
+├─ source-map-url@0.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lydell/source-map-url
+│  ├─ publisher: Simon Lydell
+│  ├─ copyright: Copyright (c) 2014 Simon Lydell
+│  ├─ name: source-map-url
+│  ├─ version: 0.4.0
+│  └─ description: Tools for working with sourceMappingURL comments.
+├─ source-map@0.5.7
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/mozilla/source-map
+│  ├─ publisher: Nick Fitzgerald
+│  ├─ name: source-map
+│  ├─ version: 0.5.7
+│  └─ description: Generates and consumes source maps
+├─ sparkles@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/sparkles
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014 Blaine Bublitz <blaine.bublitz@gmail.com> and Eric Schoffstall <yo@contra.io>
+│  ├─ name: sparkles
+│  ├─ version: 1.0.1
+│  └─ description: Namespaced global event emitter
+├─ spdx-correct@3.1.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/jslicense/spdx-correct.js
+│  ├─ publisher: Kyle E. Mitchell
+│  ├─ name: spdx-correct
+│  ├─ version: 3.1.1
+│  └─ description: correct invalid SPDX expressions
+├─ spdx-exceptions@2.3.0
+│  ├─ licenses: CC-BY-3.0
+│  ├─ repository: https://github.com/kemitchell/spdx-exceptions.json
+│  ├─ publisher: The Linux Foundation
+│  ├─ name: spdx-exceptions
+│  ├─ version: 2.3.0
+│  └─ description: list of SPDX standard license exceptions
+├─ spdx-expression-parse@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jslicense/spdx-expression-parse.js
+│  ├─ publisher: Kyle E. Mitchell
+│  ├─ copyright: Copyright (c) 2015 Kyle E. Mitchell & other authors listed in AUTHORS
+│  ├─ name: spdx-expression-parse
+│  ├─ version: 3.0.1
+│  └─ description: parse SPDX license expressions
+├─ spdx-license-ids@3.0.12
+│  ├─ licenses: CC0-1.0
+│  ├─ repository: https://github.com/jslicense/spdx-license-ids
+│  ├─ publisher: Shinnosuke Watanabe
+│  ├─ name: spdx-license-ids
+│  ├─ version: 3.0.12
+│  └─ description: A list of SPDX license identifiers
+├─ split-string@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/split-string
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert.
+│  ├─ name: split-string
+│  ├─ version: 3.1.0
+│  └─ description: Split a string on a character except when the character is escaped.
+├─ sprintf-js@1.1.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/alexei/sprintf.js
+│  ├─ publisher: Alexandru Mărășteanu
+│  ├─ copyright: Copyright (c) 2007-present, Alexandru Mărășteanu <hello@alexei.ro>. All rights reserved.
+│  ├─ name: sprintf-js
+│  ├─ version: 1.1.2
+│  └─ description: JavaScript sprintf implementation
+├─ stack-trace@0.0.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-stack-trace
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ copyright: Copyright (c) 2011 Felix Geisendörfer (felix@debuggable.com)
+│  ├─ name: stack-trace
+│  ├─ version: 0.0.10
+│  └─ description: Get v8 stack traces as an array of CallSite objects.
+├─ static-extend@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/static-extend
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2016, Jon Schlinkert.
+│  ├─ name: static-extend
+│  ├─ version: 0.1.2
+│  └─ description: Adds a static `extend` method to a class, to simplify inheritance. Extends the static properties, prototype properties, and descriptors from a `Parent` constructor onto `Child` constructors.
+├─ stream-browserify@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/stream-browserify
+│  ├─ publisher: James Halliday
+│  ├─ copyright: Copyright (c) James Halliday
+│  ├─ name: stream-browserify
+│  ├─ version: 2.0.2
+│  └─ description: the stream module from node core for browsers
+├─ stream-combiner2@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/stream-combiner2
+│  ├─ publisher: 'Dominic Tarr'
+│  ├─ copyright: Copyright (c) 2012 'Dominic Tarr'
+│  ├─ name: stream-combiner2
+│  ├─ version: 1.1.1
+│  └─ description: This is a sequel to [stream-combiner](https://npmjs.org/package/stream-combiner) for streams3.
+├─ stream-exhaust@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chrisdickinson/stream-exhaust
+│  ├─ publisher: Chris Dickinson
+│  ├─ name: stream-exhaust
+│  ├─ version: 1.0.2
+│  └─ description: Ensure that a stream is flowing data without mutating it
+├─ stream-http@2.8.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jhiesey/stream-http
+│  ├─ publisher: John Hiesey
+│  ├─ copyright: Copyright (c) 2015 John Hiesey
+│  ├─ name: stream-http
+│  ├─ version: 2.8.3
+│  └─ description: Streaming http in the browser
+├─ stream-shift@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/stream-shift
+│  ├─ publisher: Mathias Buus
+│  ├─ copyright: Copyright (c) 2016 Mathias Buus
+│  ├─ name: stream-shift
+│  ├─ version: 1.0.1
+│  └─ description: Returns the next buffer/object in a stream's readable queue
+├─ stream-splicer@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/stream-splicer
+│  ├─ publisher: James Halliday
+│  ├─ copyright: Copyright (c) James Halliday and browserify contributors
+│  ├─ name: stream-splicer
+│  ├─ version: 2.0.1
+│  └─ description: streaming pipeline with a mutable configuration
+├─ string-width@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/string-width
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: string-width
+│  ├─ version: 1.0.2
+│  └─ description: Get the visual width of a string - the number of columns required to display it
+├─ string_decoder@0.10.31
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/string_decoder
+│  ├─ copyright: Copyright Joyent, Inc. and other Node contributors.
+│  ├─ name: string_decoder
+│  ├─ version: 0.10.31
+│  ├─ description: The string_decoder module from Node core
+│  └─ publisher: 
+├─ string_decoder@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/string_decoder
+│  ├─ name: string_decoder
+│  ├─ version: 1.1.1
+│  ├─ description: The string_decoder module from Node core
+│  └─ publisher: 
+├─ string_decoder@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/string_decoder
+│  ├─ name: string_decoder
+│  ├─ version: 1.3.0
+│  ├─ description: The string_decoder module from Node core
+│  └─ publisher: 
+├─ strip-ansi@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/strip-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: strip-ansi
+│  ├─ version: 3.0.1
+│  └─ description: Strip ANSI escape codes
+├─ strip-bom@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/strip-bom
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: strip-bom
+│  ├─ version: 2.0.0
+│  └─ description: Strip UTF-8 byte order mark (BOM) from a string/buffer
+├─ subarg@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/subarg
+│  ├─ publisher: James Halliday
+│  ├─ name: subarg
+│  ├─ version: 1.0.0
+│  └─ description: parse arguments with recursive contexts
+├─ supports-color@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: supports-color
+│  ├─ version: 2.0.0
+│  └─ description: Detect whether a terminal supports color
+├─ sver-compat@1.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/phated/sver-compat
+│  ├─ publisher: Guy Bedford
+│  ├─ copyright: Copyright (C) 2017 Guy Bedford
+│  ├─ name: sver-compat
+│  ├─ version: 1.5.0
+│  └─ description: Simple Semver and SemverRange classes
+├─ syntax-error@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-syntax-error
+│  ├─ publisher: James Halliday
+│  ├─ name: syntax-error
+│  ├─ version: 1.4.0
+│  └─ description: detect and report syntax errors in source code strings
+├─ through2-filter@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brycebaril/through2-filter
+│  ├─ publisher: Bryce B. Baril
+│  ├─ copyright: Copyright (c) Bryce B. Baril <bryce@ravenwall.com>
+│  ├─ name: through2-filter
+│  ├─ version: 3.0.0
+│  └─ description: A through2 to create an Array.prototype.filter analog for streams.
+├─ through2@2.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/through2
+│  ├─ publisher: Rod Vagg
+│  ├─ name: through2
+│  ├─ version: 2.0.5
+│  └─ description: A tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise
+├─ through@2.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/through
+│  ├─ publisher: Dominic Tarr
+│  ├─ copyright: Copyright (c) 2011 Dominic Tarr
+│  ├─ name: through
+│  ├─ version: 2.3.8
+│  └─ description: simplified stream construction
+├─ time-stamp@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/time-stamp
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert
+│  ├─ name: time-stamp
+│  ├─ version: 1.1.0
+│  └─ description: Get a formatted timestamp.
+├─ timers-browserify@1.4.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jryans/timers-browserify
+│  ├─ publisher: J. Ryan Stinnett
+│  ├─ name: timers-browserify
+│  ├─ version: 1.4.2
+│  └─ description: timers module for browserify
+├─ to-absolute-glob@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/to-absolute-glob
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2016, Jon Schlinkert
+│  ├─ name: to-absolute-glob
+│  ├─ version: 2.0.2
+│  └─ description: Make a glob pattern absolute, ensuring that negative globs and patterns with trailing slashes are correctly handled.
+├─ to-arraybuffer@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jhiesey/to-arraybuffer
+│  ├─ publisher: John Hiesey
+│  ├─ copyright: Copyright (c) 2016 John Hiesey
+│  ├─ name: to-arraybuffer
+│  ├─ version: 1.0.1
+│  └─ description: Get an ArrayBuffer from a Buffer as fast as possible
+├─ to-object-path@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/to-object-path
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2016, Jon Schlinkert.
+│  ├─ name: to-object-path
+│  ├─ version: 0.3.0
+│  └─ description: Create an object path from a list or array of strings.
+├─ to-regex-range@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/micromatch/to-regex-range
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert
+│  ├─ name: to-regex-range
+│  ├─ version: 2.1.1
+│  └─ description: Pass two numbers, get a regex-compatible source string for matching ranges. Validated against more than 2.78 million test assertions.
+├─ to-regex@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/to-regex
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2016-2018, Jon Schlinkert.
+│  ├─ name: to-regex
+│  ├─ version: 3.0.2
+│  └─ description: Generate a regex from a string or array of strings.
+├─ to-through@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/to-through
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: to-through
+│  ├─ version: 2.0.0
+│  └─ description: Wrap a ReadableStream in a TransformStream.
+├─ tslint@3.15.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/palantir/tslint
+│  ├─ name: tslint
+│  ├─ version: 3.15.1
+│  ├─ description: An extensible static analysis linter for the TypeScript language
+│  └─ publisher: 
+├─ tty-browserify@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/tty-browserify
+│  ├─ publisher: James Halliday
+│  ├─ name: tty-browserify
+│  ├─ version: 0.0.1
+│  └─ description: the tty module from node core for browsers
+├─ type@1.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/medikoo/type
+│  ├─ publisher: Mariusz Nowak
+│  ├─ copyright: Copyright (c) 2019, Mariusz Nowak, @medikoo, medikoo.com
+│  ├─ name: type
+│  ├─ version: 1.2.0
+│  └─ description: Runtime validation and processing of JavaScript types
+├─ type@2.7.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/medikoo/type
+│  ├─ publisher: Mariusz Nowak
+│  ├─ copyright: Copyright (c) 2019-2022, Mariusz Nowak, @medikoo, medikoo.com
+│  ├─ name: type
+│  ├─ version: 2.7.2
+│  └─ description: Runtime validation and processing of JavaScript types
+├─ typedarray@0.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/typedarray
+│  ├─ publisher: James Halliday
+│  ├─ name: typedarray
+│  ├─ version: 0.0.6
+│  └─ description: TypedArray polyfill for old browsers
+├─ typescript@3.9.7
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/Microsoft/TypeScript
+│  ├─ publisher: Microsoft Corp.
+│  ├─ name: typescript
+│  ├─ version: 3.9.7
+│  └─ description: TypeScript is a language for application scale JavaScript development
+├─ umd@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ForbesLindesay/umd
+│  ├─ publisher: ForbesLindesay
+│  ├─ copyright: Copyright (c) 2013 Forbes Lindesay
+│  ├─ name: umd
+│  ├─ version: 3.0.3
+│  └─ description: Universal Module Definition for use in automated build systems
+├─ unc-path-regex@0.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/regexhq/unc-path-regex
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, Jon Schlinkert.
+│  ├─ name: unc-path-regex
+│  ├─ version: 0.1.2
+│  └─ description: Regular expression for testing if a file path is a windows UNC file path. Can also be used as a component of another regexp via the `.source` property.
+├─ undeclared-identifiers@1.1.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/goto-bus-stop/undeclared-identifiers
+│  ├─ publisher: Renée Kooi
+│  ├─ copyright: Copyright 2018 Renée Kooi <renee@kooi.me>
+│  ├─ name: undeclared-identifiers
+│  ├─ version: 1.1.3
+│  └─ description: find undeclared identifiers and property accesses in a javascript file.
+├─ underscore.string@3.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/epeli/underscore.string
+│  ├─ copyright: Copyright (c) 2011 Esa-Matti Suuronen esa-matti@suuronen.org
+│  ├─ name: underscore.string
+│  ├─ version: 3.3.5
+│  ├─ description: String manipulation extensions for Underscore.js javascript library.
+│  └─ publisher: 
+├─ undertaker-registry@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/undertaker-registry
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2015, 2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: undertaker-registry
+│  ├─ version: 1.0.1
+│  └─ description: Default registry in gulp 4.
+├─ undertaker@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/undertaker
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014 Blaine Bublitz, Eric Schoffstall and other contributors
+│  ├─ name: undertaker
+│  ├─ version: 1.3.0
+│  └─ description: Task registry that allows composition through series/parallel methods.
+├─ union-value@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/union-value
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-2017, Jon Schlinkert
+│  ├─ name: union-value
+│  ├─ version: 1.0.1
+│  └─ description: Set an array of unique values as the property of an object. Supports setting deeply nested properties using using object-paths/dot notation.
+├─ unique-stream@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/eugeneware/unique-stream
+│  ├─ publisher: Eugene Ware
+│  ├─ copyright: Copyright 2014 Eugene Ware
+│  ├─ name: unique-stream
+│  ├─ version: 2.3.1
+│  └─ description: node.js through stream that emits a unique stream of objects based on criteria
+├─ unset-value@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/unset-value
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015, 2017, Jon Schlinkert
+│  ├─ name: unset-value
+│  ├─ version: 1.0.0
+│  └─ description: Delete nested properties from an object using dot notation.
+├─ upath@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/anodynos/upath
+│  ├─ publisher: Angelos Pikoulas
+│  ├─ copyright: Copyright(c) 2014-2019 Angelos Pikoulas (agelos.pikoulas@gmail.com)
+│  ├─ name: upath
+│  ├─ version: 1.2.0
+│  └─ description: A proxy to `path`, replacing `\` with `/` for all results & new methods to normalize & join keeping leading `./` and add, change, default, trim file extensions.
+├─ urix@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lydell/urix
+│  ├─ publisher: Simon Lydell
+│  ├─ copyright: Copyright (c) 2013 Simon Lydell
+│  ├─ name: urix
+│  ├─ version: 0.1.0
+│  └─ description: Makes Windows-style paths more unix and URI friendly.
+├─ url@0.11.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/defunctzombie/node-url
+│  ├─ copyright: Copyright Joyent, Inc. and other Node contributors.
+│  ├─ name: url
+│  ├─ version: 0.11.0
+│  ├─ description: The core `url` packaged standalone for use with Browserify.
+│  └─ publisher: 
+├─ use@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonschlinkert/use
+│  ├─ publisher: Jon Schlinkert
+│  ├─ copyright: Copyright (c) 2015-present, Jon Schlinkert.
+│  ├─ name: use
+│  ├─ version: 3.1.1
+│  └─ description: Easily add plugin support to your node.js application.
+├─ util-deprecate@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/util-deprecate
+│  ├─ publisher: Nathan Rajlich
+│  ├─ copyright: Copyright (c) 2014 Nathan Rajlich <nathan@tootallnate.net>
+│  ├─ name: util-deprecate
+│  ├─ version: 1.0.2
+│  └─ description: The Node.js `util.deprecate()` function with browser support
+├─ util@0.10.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/defunctzombie/node-util
+│  ├─ publisher: Joyent
+│  ├─ copyright: Copyright Joyent, Inc. and other Node contributors. All rights reserved.. Permission is hereby granted, free of charge, to any person obtaining a copy. of this software and associated documentation files (the "Software"), to. deal in the Software without restriction, including without limitation the. rights to use, copy, modify, merge, publish, distribute, sublicense, and/or. sell copies of the Software, and to permit persons to whom the Software is. furnished to do so, subject to the following conditions:
+│  ├─ name: util
+│  ├─ version: 0.10.3
+│  └─ description: Node.JS util module
+├─ util@0.10.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/defunctzombie/node-util
+│  ├─ publisher: Joyent
+│  ├─ copyright: Copyright Joyent, Inc. and other Node contributors. All rights reserved.. Permission is hereby granted, free of charge, to any person obtaining a copy. of this software and associated documentation files (the "Software"), to. deal in the Software without restriction, including without limitation the. rights to use, copy, modify, merge, publish, distribute, sublicense, and/or. sell copies of the Software, and to permit persons to whom the Software is. furnished to do so, subject to the following conditions:
+│  ├─ name: util
+│  ├─ version: 0.10.4
+│  └─ description: Node.JS util module
+├─ v8flags@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/v8flags
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2014-2018 Tyler Kellen <tyler@sleekcode.net>, Blaine Bublitz <blaine.bublitz@gmail.com>, and Eric Schoffstall <yo@contra.io>
+│  ├─ name: v8flags
+│  ├─ version: 3.2.0
+│  └─ description: Get available v8 and Node.js flags.
+├─ validate-npm-package-license@3.0.4
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/kemitchell/validate-npm-package-license.js
+│  ├─ publisher: Kyle E. Mitchell
+│  ├─ name: validate-npm-package-license
+│  ├─ version: 3.0.4
+│  └─ description: Give me a string and I'll tell you if it's a valid npm package license string
+├─ value-or-function@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/value-or-function
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2015 Blaine Bublitz, Eric Schoffstall and other contributors
+│  ├─ name: value-or-function
+│  ├─ version: 3.0.0
+│  └─ description: Normalize a value or function, applying extra args to the function
+├─ vinyl-fs@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/vinyl-fs
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2013-2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: vinyl-fs
+│  ├─ version: 3.0.3
+│  └─ description: Vinyl adapter for the file system.
+├─ vinyl-source-stream@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/hughsk/vinyl-source-stream
+│  ├─ publisher: Hugh Kennedy
+│  ├─ copyright: Copyright (c) 2014 Hugh Kennedy
+│  ├─ name: vinyl-source-stream
+│  ├─ version: 2.0.0
+│  └─ description: Use conventional text streams at the start of your gulp or vinyl pipelines
+├─ vinyl-sourcemap@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/vinyl-sourcemap
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2017 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors (Based on code from gulp-sourcemaps - ISC License - Copyright (c) 2014, Florian Reiterer)
+│  ├─ name: vinyl-sourcemap
+│  ├─ version: 1.1.0
+│  └─ description: Add/write sourcemaps to/from Vinyl files.
+├─ vinyl@0.5.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/wearefractal/vinyl
+│  ├─ publisher: Fractal
+│  ├─ copyright: Copyright (c) 2013 Fractal <contact@wearefractal.com>
+│  ├─ name: vinyl
+│  ├─ version: 0.5.3
+│  └─ description: A virtual file format
+├─ vinyl@2.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gulpjs/vinyl
+│  ├─ publisher: Gulp Team
+│  ├─ copyright: Copyright (c) 2013 Blaine Bublitz <blaine.bublitz@gmail.com>, Eric Schoffstall <yo@contra.io> and other contributors
+│  ├─ name: vinyl
+│  ├─ version: 2.2.1
+│  └─ description: Virtual file format.
+├─ vm-browserify@0.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/vm-browserify
+│  ├─ publisher: James Halliday
+│  ├─ name: vm-browserify
+│  ├─ version: 0.0.4
+│  └─ description: vm module for the browser
+├─ which-module@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/nexdrew/which-module
+│  ├─ publisher: nexdrew
+│  ├─ copyright: Copyright (c) 2016, Contributors
+│  ├─ name: which-module
+│  ├─ version: 1.0.0
+│  └─ description: Find the module object for something that was require()d
+├─ which@1.3.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-which
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: which
+│  ├─ version: 1.3.1
+│  └─ description: Like which(1) unix command. Find the first instance of an executable in the PATH.
+├─ wordwrap@0.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-wordwrap
+│  ├─ publisher: James Halliday
+│  ├─ name: wordwrap
+│  ├─ version: 0.0.3
+│  └─ description: Wrap those words. Show them at what columns to start and stop.
+├─ wrap-ansi@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/wrap-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ copyright: Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+│  ├─ name: wrap-ansi
+│  ├─ version: 2.1.0
+│  └─ description: Wordwrap a string with ANSI escape codes
+├─ wrappy@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/wrappy
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ copyright: Copyright (c) Isaac Z. Schlueter and Contributors
+│  ├─ name: wrappy
+│  ├─ version: 1.0.2
+│  └─ description: Callback wrapping utility
+├─ xtend@4.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/xtend
+│  ├─ publisher: Raynos
+│  ├─ name: xtend
+│  ├─ version: 4.0.2
+│  └─ description: extend like a boss
+├─ y18n@3.2.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/y18n
+│  ├─ publisher: Ben Coe
+│  ├─ copyright: Copyright (c) 2015, Contributors
+│  ├─ name: y18n
+│  ├─ version: 3.2.2
+│  └─ description: the bare-bones internationalization library used by yargs
+├─ yargs-parser@5.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/yargs-parser
+│  ├─ publisher: Ben Coe
+│  ├─ copyright: Copyright (c) 2016, Contributors
+│  ├─ name: yargs-parser
+│  ├─ version: 5.0.1
+│  └─ description: the mighty option parser used by yargs
+└─ yargs@7.1.2
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/yargs/yargs
+   ├─ copyright: Copyright 2010 James Halliday (mail@substack.net). Modified work Copyright 2014 Contributors (ben@npmjs.com)
+   ├─ name: yargs
+   ├─ version: 7.1.2
+   ├─ description: yargs the modern, pirate-themed, successor to optimist.
+   └─ publisher: 
