@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["es5"],
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "outDir": "../lib",
+    "rootDir": "."
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

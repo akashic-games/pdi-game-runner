@@ -1,0 +1,48 @@
+{
+  "name": "@akashic/pdi-game-runner",
+  "version": "2.30.2",
+  "description": "Akashic PDI implementation for game-runner",
+  "main": "lib/bootstrap.js",
+  "files": [
+    "build",
+    "lib",
+    "package.json",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "gulp copy",
+    "test": "gulp test",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:akashic-games/pdi-game-runner.git"
+  },
+  "author": "DWANGO Co., Ltd.",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "~4.0.2",
+    "gulp-jasmine": "~4.0.0",
+    "gulp-tslint": "^4.3.2",
+    "tslint": "^3.5.0",
+    "typescript": "^3.7.5",
+    "vinyl-source-stream": "~2.0.0"
+  },
+  "dependencies": {
+    "@akashic/akashic-engine": "~2.6.4",
+    "@akashic/akashic-pdi": "~2.9.0",
+    "@akashic/akashic-storage-core": "1.2.0",
+    "@akashic/amflow": "2.0.0",
+    "@akashic/content-storage-types": "1.3.1",
+    "@akashic/game-driver": "~1.6.5",
+    "@akashic/playlog": "3.0.0",
+    "browserify": "13.0.1",
+    "msgpack-lite": "~0.1.26",
+    "p-queue-es5": "~6.0.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "@akashic:registry": "https://registry.npmjs.org/"
+  }
+}
