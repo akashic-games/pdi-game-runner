@@ -43,10 +43,13 @@
     "access": "public",
     "@akashic:registry": "https://registry.npmjs.org/"
   },
+  "allowScripts": {
+    "es5-ext@0.10.62": false
+  },
   "devEngines": {
     "packageManager": {
       "name": "npm",
-      "version": ">=11.11.0",
+      "version": ">=11.19.0",
       "onFail": "error"
     }
   }
